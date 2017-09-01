@@ -1,0 +1,17 @@
+<script type="text/javascript" src="js/jquery.js">
+</script>
+<script>
+ var target = parseInt(Math.random() * 20);
+ var flightNo = "MU2043";
+ var url = "route2.html?start=33R9&end=A" + target + "&flightNo=" + flightNo;
+ $("document").ready(function() {
+  $("body").append("<iframe id='frmMU2043' width='400px' height='500px'></iframe>");
+
+  $("#frmMU2043").attr("src", url);
+ })
+</script>
+<script type="text/javascript">
+ function routeChecked(fl, result) {
+  alert(result);
+ }
+</script>

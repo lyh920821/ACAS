@@ -1,0 +1,161 @@
+<script type="text/javascript" src="js/jquery.js"></script>
+<script>
+	var load, F, Dest;
+
+
+	function getParameterByName(name, url) {
+		if (!url) {
+			url = window.location.href;
+		}
+		name = name.replace(/[\[\]]/g, "\\$&");
+		var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+			results = regex.exec(url);
+		if (!results) return null;
+		if (!results[2]) return '';
+		return decodeURIComponent(results[2].replace(/\+/g, " "));
+	}
+
+
+	function getJsons() {
+		$.getJSON("./json/route.json").done(function(data) {
+			load = data;
+
+			findRouteAll(getParameterByName("start"), getParameterByName("end"));
+		});
+	}
+
+
+
+	function findRouteAll(start, end) {
+		F = start;
+		Dest = end;
+		findRoute(start, end);
+
+		// console.log(result);
+
+		for (var k = result.length - 1; k >= 0; k--) {
+
+			if (result[k].split(">")[0].toString() == F) {
+				// console.log("match>>"+result[k]);
+				conclusion.push(result[k]);
+			}
+		}
+
+		// console.log(conclusion);
+		for (var i = 0; i < conclusion.length; i++) {
+			// console.log(">>>>>>>>>>"+conclusion[i]);
+			var runtime = 0;
+			for (var R = 0; R < conclusion[i].split(">").length; R++) {
+				for (var z = 0; z < load.routes.length; z++) {
+					if (conclusion[i].split(">")[R] == load.routes[z]["s"]) {
+						if (conclusion[i].split(">")[R + 1] == load.routes[z]["e"]) {
+							runtime += load.routes[z]["w"];
+							// console.log("zzzzzzzz>>"+conclusion[i].split(">")[R]+">"+conclusion[i].split(">")[R+1]+":"+load[z][2]+" / "+runtime);
+						}
+					}
+				}
+			}
+			runningTime.push(runtime);
+			runtime = 0;
+		}
+		// console.log(conclusion);
+		// console.log(runningTime);
+
+		var lowestValue = 1000; // 이 값보다 작을것으로 예상
+		var lowestPosition = 0; // 결과 위치
+		for (var i = runningTime.length - 1; i >= 0; i--) {
+			if (runningTime[i] < lowestValue) {
+				lowestValue = runningTime[i];
+				lowestPosition = i;
+			}
+		}
+
+
+		// console.log(lowestPosition);
+
+		console.log("결과 >>>>>>>>>>>>>" + conclusion[lowestPosition] + " / " + runningTime[lowestPosition]);
+
+
+		parent.routeChecked(getParameterByName("flightNo"), conclusion[lowestPosition]);
+
+
+	}
+
+
+
+	// for (var i = load.length - 1; i >= 0; i--) {
+	// 	console.log(load[i][0]);
+	// 	// if (F == load[i][0][0]) {
+	// 	// console.log(load[i][0][0]);	
+	// 	// }
+	// }
+
+	var key, next, saved;
+
+	key = 0;
+	next = 1;
+	saved = "";
+
+	var result;
+	result = new Array();
+
+	var conclusion;
+	conclusion = new Array();
+
+	var runningTime;
+	runningTime = new Array();
+
+	var saved = "";
+
+	function findRoute(from, to, ods) {
+
+		if (ods == null) {
+			ods = ""
+		}
+		if (from == Dest) {
+			result.push(ods + to);
+		}
+
+		for (var K = 0; K < load.routes.length; K++) {
+
+			if (load.routes[K]["s"] == from) {
+				stack = ods + load.routes[K]["s"] + ">";
+				// console.log(stack);
+
+				for (var R = 0; R < stack.split(">").length; R++) {
+					// console.log(stack.split(">")[R]);
+					if (stack.split(">")[R] == to) {
+						return;
+					}
+
+				}
+
+				if (unique(stack.split(">")).length != stack.split(">").length) {
+					return;
+				}
+				if (stack.split(">")[stack.split(">").length - 2][0] == "A") {
+					// console.log(stack);
+					// console.log(stack.split(">")[stack.split(">").length - 2]);
+					return;
+				}
+
+
+				findRoute(load.routes[K]["e"], to, stack);
+			}
+		}
+
+		return;
+	}
+
+	function unique(list) {
+		var result = [];
+		$.each(list, function(i, e) {
+			if ($.inArray(e, result) == -1) result.push(e);
+		});
+		return result;
+	}
+
+	$("document").ready(function() {
+		getJsons();
+	});
+</script>

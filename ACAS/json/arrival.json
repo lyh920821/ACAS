@@ -1,0 +1,2971 @@
+{
+    "arrival": [{
+        "est": "12:05",
+        "flightno": "EY876",
+        "departure": "Abu Dhabi (AUH)",
+        "carrior": "Etihad Airways",
+        "type": "A346",
+        "reg": "A6-EHL",
+        "status": "Landed 11:46"
+    }, {
+        "est": "14:41",
+        "flightno": "KL855",
+        "departure": "Amsterdam (AMS)",
+        "carrior": "KLM",
+        "type": "B744",
+        "reg": "PH-BFE",
+        "status": "Landed 14:18"
+    }, {
+        "est": "08:46",
+        "flightno": "FX5230",
+        "departure": "Anchorage (ANC)",
+        "carrior": "FedEx",
+        "type": "B77L",
+        "reg": "N864FD",
+        "status": "Landed 08:41"
+    }, {
+        "est": "11:50",
+        "flightno": "OZ237",
+        "departure": "Anchorage (ANC)",
+        "carrior": "Asiana Airlines",
+        "type": "74Y",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "11:51",
+        "flightno": "OZ247",
+        "departure": "Anchorage (ANC)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7616",
+        "status": "Landed 12:33"
+    }, {
+        "est": "09:45",
+        "flightno": "KC209",
+        "departure": "Astana (TSE)",
+        "carrior": "Air Astana",
+        "type": "B752",
+        "reg": "P4-GAS",
+        "status": "Landed 09:24"
+    }, {
+        "est": "16:10",
+        "flightno": "KE36",
+        "departure": "Atlanta (ATL)",
+        "carrior": "Korean Air",
+        "type": "A388",
+        "reg": "HL7622",
+        "status": "Landed 15:53"
+    }, {
+        "est": "17:45",
+        "flightno": "KE130",
+        "departure": "Auckland (AKL)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8216",
+        "status": "Landed 17:39"
+    }, {
+        "est": "23:59",
+        "flightno": "7L124",
+        "departure": "Baku (GYD)",
+        "carrior": "Silk Way West Airlines",
+        "type": "B744",
+        "reg": "4K-SW888",
+        "status": "Landed 19:14"
+    }, {
+        "est": "08:41",
+        "flightno": "7C2204",
+        "departure": "Bangkok (BKK)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8020",
+        "status": "Landed 08:49"
+    }, {
+        "est": "08:42",
+        "flightno": "TW102",
+        "departure": "Bangkok (BKK)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8000",
+        "status": "Landed 08:36 "
+    }, {
+        "est": "09:10",
+        "flightno": "7C2206",
+        "departure": "Bangkok (BKK)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8261",
+        "status": "Landed 08:56"
+    }, {
+        "est": "09:11",
+        "flightno": "Q12206",
+        "departure": "Bangkok (BKK)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "17:35",
+        "flightno": "KE660",
+        "departure": "Bangkok (BKK)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7709",
+        "status": "Landed 17:41"
+    }, {
+        "est": "09:13",
+        "flightno": "XJ700",
+        "departure": "Bangkok (DMK)",
+        "carrior": "Thai AirAsia X",
+        "type": "A333",
+        "reg": "HS-XTD",
+        "status": "Landed 09:32"
+    }, {
+        "est": "11:36",
+        "flightno": "CA123",
+        "departure": "Beijing (PEK)",
+        "carrior": "Air China",
+        "type": "A333",
+        "reg": "B-5947",
+        "status": "Landed 12:56"
+    }, {
+        "est": "14:15",
+        "flightno": "CA131",
+        "departure": "Beijing (PEK)",
+        "carrior": "Air China",
+        "type": "A333",
+        "reg": "B-5916",
+        "status": "Landed 14:14"
+    }, {
+        "est": "16:39",
+        "flightno": "CA125",
+        "departure": "Beijing (PEK)",
+        "carrior": "Air China",
+        "type": "A333",
+        "reg": "B-5946",
+        "status": "Landed 16:22"
+    }, {
+        "est": "19:50",
+        "flightno": "OZ334",
+        "departure": "Beijing (PEK)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL7792",
+        "status": "Landed 19:47"
+    }, {
+        "est": "20:10",
+        "flightno": "OZ336",
+        "departure": "Beijing (PEK)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8279",
+        "status": "Landed 20:19"
+    }, {
+        "est": "22:10",
+        "flightno": "CZ315",
+        "departure": "Beijing (PEK)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-6319",
+        "status": "Landed 23:00"
+    }, {
+        "est": "00:20",
+        "flightno": "KE854",
+        "departure": "Beijing (PEK)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8009",
+        "status": "Landed 00:07"
+    }, {
+        "est": "00:25",
+        "flightno": "KE856",
+        "departure": "Beijing (PEK)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8010",
+        "status": "Landed 00:07"
+    }, {
+        "est": "17:36",
+        "flightno": "KE124",
+        "departure": "Brisbane (BNE)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL8003",
+        "status": "Landed 17:15"
+    }, {
+        "est": "11:45",
+        "flightno": "KE1404",
+        "departure": "Busan (PUS)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL7569",
+        "status": "Landed 12:06"
+    }, {
+        "est": "14:35",
+        "flightno": "KE1406",
+        "departure": "Busan (PUS)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8240",
+        "status": "Landed 14:50"
+    }, {
+        "est": "17:29",
+        "flightno": "KE1408",
+        "departure": "Busan (PUS)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8243",
+        "status": "Landed 17:13"
+    }, {
+        "est": "19:55",
+        "flightno": "Z29048",
+        "departure": "Cebu (CEB)",
+        "carrior": "Philippines AirAsia",
+        "type": "A320",
+        "reg": "RP-C8971",
+        "status": "Landed 22:32"
+    }, {
+        "est": "21:15",
+        "flightno": "5J128",
+        "departure": "Cebu (CEB)",
+        "carrior": "CEBU Pacific Air",
+        "type": "A320",
+        "reg": "RP-C4105",
+        "status": "Landed 21:11"
+    }, {
+        "est": "12:20",
+        "flightno": "CZ687",
+        "departure": "Changchun (CGQ)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-9960",
+        "status": "Landed 11:56"
+    }, {
+        "est": "14:50",
+        "flightno": "OZ304",
+        "departure": "Changchun (CGQ)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL8286",
+        "status": "Landed 14:47"
+    }, {
+        "est": "21:53",
+        "flightno": "OZ3045",
+        "departure": "Changchun (CGQ)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL8293",
+        "status": "Landed 21:22"
+    }, {
+        "est": "15:40",
+        "flightno": "CZ3065",
+        "departure": "Changsha (CSX)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-6625",
+        "status": "Landed 16:08"
+    }, {
+        "est": "19:35",
+        "flightno": "3U8903",
+        "departure": "Chengdu (CTU)",
+        "carrior": "Sichuan Airlines",
+        "type": "A332",
+        "reg": "B-6518",
+        "status": "Landed 22:37"
+    }, {
+        "est": "16:25",
+        "flightno": "KE38",
+        "departure": "Chicago (ORD)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8008",
+        "status": "Landed 16:29"
+    }, {
+        "est": "09:50",
+        "flightno": "OZ956",
+        "departure": "Chongqing (CKG)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7507",
+        "status": "Landed 10:12"
+    }, {
+        "est": "13:40",
+        "flightno": "CA439",
+        "departure": "Chongqing (CKG)",
+        "carrior": "Air China",
+        "type": "B738",
+        "reg": "B-1738",
+        "status": "Landed 13:14"
+    }, {
+        "est": "17:07",
+        "flightno": "OZ354",
+        "departure": "Chongqing (CKG)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8256",
+        "status": "Landed 17:29"
+    }, {
+        "est": "16:00",
+        "flightno": "PO751",
+        "departure": "Cincinnati (CVG)",
+        "carrior": "Polar Air Cargo",
+        "type": "B744",
+        "reg": "N453PADiverted to SEA",
+        "status": ""
+    }, {
+        "est": "17:46",
+        "flightno": "KE1414",
+        "departure": "Daegu (TAE)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8242",
+        "status": "Landed 17:29"
+    }, {
+        "est": "10:20",
+        "flightno": "CZ685",
+        "departure": "Dalian (DLC)",
+        "carrior": "China Southern Airlines",
+        "type": "321",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "13:10",
+        "flightno": "OZ302",
+        "departure": "Dalian (DLC)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7516",
+        "status": "Landed 13:38"
+    }, {
+        "est": "16:26",
+        "flightno": "CZ695",
+        "departure": "Dalian (DLC)",
+        "carrior": "China Southern Airlines",
+        "type": "319",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "16:55",
+        "flightno": "KE870",
+        "departure": "Dalian (DLC)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7574",
+        "status": "Landed 16:35"
+    }, {
+        "est": "20:55",
+        "flightno": "CZ675",
+        "departure": "Dalian (DLC)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-6273",
+        "status": "Landed 21:27"
+    }, {
+        "est": "15:15",
+        "flightno": "AA281",
+        "departure": "Dallas (DFW)",
+        "carrior": "American Airlines",
+        "type": "B772",
+        "reg": "N792AN",
+        "status": "Landed 14:50"
+    }, {
+        "est": "16:40",
+        "flightno": "KE32",
+        "departure": "Dallas (DFW)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7526",
+        "status": "Landed 15:39"
+    }, {
+        "est": "08:27",
+        "flightno": "GA870",
+        "departure": "Denpasar (DPS)",
+        "carrior": "Garuda Indonesia",
+        "type": "A333",
+        "reg": "PK-GPU",
+        "status": "Landed 08:22"
+    }, {
+        "est": "09:25",
+        "flightno": "KE630",
+        "departure": "Denpasar (DPS)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL8026",
+        "status": "Landed 09:10"
+    }, {
+        "est": "18:30",
+        "flightno": "DL159",
+        "departure": "Detroit (DTW)",
+        "carrior": "Delta Air Lines",
+        "type": "B744",
+        "reg": "N670US",
+        "status": "Landed 18:27"
+    }, {
+        "est": "13:55",
+        "flightno": "QR8980",
+        "departure": "Doha (DOH)",
+        "carrior": "Qatar Air Cargo",
+        "type": "B77L",
+        "reg": "A7-BFE",
+        "status": "Landed 13:41"
+    }, {
+        "est": "17:01",
+        "flightno": "QR858",
+        "departure": "Doha (DOH)",
+        "carrior": "Qatar Airways",
+        "type": "B77W",
+        "reg": "A7-BAA",
+        "status": "Landed 17:40"
+    }, {
+        "est": "12:21",
+        "flightno": "KE952",
+        "departure": "Dubai (DXB)",
+        "carrior": "Korean Air",
+        "type": "A332",
+        "reg": "HL8276",
+        "status": "Landed 12:24"
+    }, {
+        "est": "16:56",
+        "flightno": "EK322",
+        "departure": "Dubai (DXB)",
+        "carrior": "Emirates",
+        "type": "A388",
+        "reg": "A6-EDR",
+        "status": "Landed 16:38"
+    }, {
+        "est": "11:02",
+        "flightno": "LH712",
+        "departure": "Frankfurt (FRA)",
+        "carrior": "Lufthansa",
+        "type": "A388",
+        "reg": "D-AIMC",
+        "status": "Landed 13:50"
+    }, {
+        "est": "12:22",
+        "flightno": "OZ542",
+        "departure": "Frankfurt (FRA)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7428",
+        "status": "Landed 13:17"
+    }, {
+        "est": "12:55",
+        "flightno": "KE906",
+        "departure": "Frankfurt (FRA)",
+        "carrior": "Korean Air",
+        "type": "B748",
+        "reg": "HL7638",
+        "status": "Landed 12:51"
+    }, {
+        "est": "10:57",
+        "flightno": "LJ222",
+        "departure": "Fukuoka (FUK)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7562",
+        "status": "Landed 10:51"
+    }, {
+        "est": "11:55",
+        "flightno": "KE788",
+        "departure": "Fukuoka (FUK)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7710",
+        "status": "Landed 11:32"
+    }, {
+        "est": "12:51",
+        "flightno": "OZ131",
+        "departure": "Fukuoka (FUK)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7418",
+        "status": "Landed 13:05"
+    }, {
+        "est": "13:45",
+        "flightno": "TW292",
+        "departure": "Fukuoka (FUK)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8000",
+        "status": "Landed 13:30"
+    }, {
+        "est": "15:41",
+        "flightno": "LJ224",
+        "departure": "Fukuoka (FUK)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7562",
+        "status": "Landed 15:26"
+    }, {
+        "est": "16:20",
+        "flightno": "OZ133",
+        "departure": "Fukuoka (FUK)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8266",
+        "status": "Landed 16:11"
+    }, {
+        "est": "17:57",
+        "flightno": "KE790",
+        "departure": "Fukuoka (FUK)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL7727",
+        "status": "Landed 17:22"
+    }, {
+        "est": "19:05",
+        "flightno": "Q11403",
+        "departure": "Fukuoka (FUK)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "19:06",
+        "flightno": "7C1403",
+        "departure": "Fukuoka (FUK)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8049",
+        "status": "Landed 18:42"
+    }, {
+        "est": "20:30",
+        "flightno": "LJ226",
+        "departure": "Fukuoka (FUK)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7562",
+        "status": "Landed 20:30"
+    }, {
+        "est": "21:40",
+        "flightno": "OZ135",
+        "departure": "Fukuoka (FUK)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL7736",
+        "status": "Landed 21:50"
+    }, {
+        "est": "22:21",
+        "flightno": "TW294",
+        "departure": "Fukuoka (FUK)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8253",
+        "status": "Landed 22:06"
+    }, {
+        "est": "22:35",
+        "flightno": "KE782",
+        "departure": "Fukuoka (FUK)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7526",
+        "status": "Landed 22:24"
+    }, {
+        "est": "19:51",
+        "flightno": "LJ642",
+        "departure": "Guam (GUM)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7563",
+        "status": "Landed 19:40"
+    }, {
+        "est": "20:44",
+        "flightno": "KE114",
+        "departure": "Guam (GUM)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7584",
+        "status": "Landed 20:12"
+    }, {
+        "est": "21:00",
+        "flightno": "7C3101",
+        "departure": "Guam (GUM)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8287",
+        "status": "Landed 20:26"
+    }, {
+        "est": "21:02",
+        "flightno": "Q13101",
+        "departure": "Guam (GUM)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "13:56",
+        "flightno": "CZ337",
+        "departure": "Guangzhou (CAN)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-6339",
+        "status": "Landed 13:44"
+    }, {
+        "est": "15:25",
+        "flightno": "CZ3061",
+        "departure": "Guangzhou (CAN)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-6683",
+        "status": "Landed 15:25"
+    }, {
+        "est": "17:02",
+        "flightno": "OZ370",
+        "departure": "Guangzhou (CAN)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL7736",
+        "status": "Landed 16:54"
+    }, {
+        "est": "17:05",
+        "flightno": "KE866",
+        "departure": "Guangzhou (CAN)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7554",
+        "status": "Landed 17:17"
+    }, {
+        "est": "20:45",
+        "flightno": "CZ339",
+        "departure": "Guangzhou (CAN)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-1845",
+        "status": "Landed 21:34"
+    }, {
+        "est": "12:07",
+        "flightno": "CA139",
+        "departure": "Hangzhou (HGH)",
+        "carrior": "Air China",
+        "type": "A321",
+        "reg": "B-6942",
+        "status": "Landed 11:53"
+    }, {
+        "est": "18:10",
+        "flightno": "OZ360",
+        "departure": "Hangzhou (HGH)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7514",
+        "status": "Landed 18:09"
+    }, {
+        "est": "09:55",
+        "flightno": "KE362",
+        "departure": "Hanoi (HAN)",
+        "carrior": "Korean Air",
+        "type": "B744",
+        "reg": "HL7602",
+        "status": "Landed 10:00"
+    }, {
+        "est": "16:36",
+        "flightno": "VN414",
+        "departure": "Hanoi (HAN)",
+        "carrior": "Vietnam Airlines",
+        "type": "A359",
+        "reg": "VN-A887",
+        "status": "Landed 16:37"
+    }, {
+        "est": "18:25",
+        "flightno": "OZ728",
+        "departure": "Hanoi (HAN)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8281",
+        "status": "Landed 18:37"
+    }, {
+        "est": "18:40",
+        "flightno": "KE480",
+        "departure": "Hanoi (HAN)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8272",
+        "status": "Landed 18:53"
+    }, {
+        "est": "11:52",
+        "flightno": "CZ683",
+        "departure": "Harbin (HRB)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-1806",
+        "status": "Landed 11:35"
+    }, {
+        "est": "14:40",
+        "flightno": "KE814",
+        "departure": "Hefei (HFE)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8247",
+        "status": "Landed 14:31"
+    }, {
+        "est": "14:10",
+        "flightno": "OZ161",
+        "departure": "Hiroshima (HIJ)",
+        "carrior": "Asiana Airlines",
+        "type": "A320",
+        "reg": "HL7738",
+        "status": "Landed 13:47"
+    }, {
+        "est": "09:41",
+        "flightno": "VJ862",
+        "departure": "Ho Chi Minh City (SGN)",
+        "carrior": "VietJet Air",
+        "type": "A320",
+        "reg": "VN-A676",
+        "status": "Landed 10:38"
+    }, {
+        "est": "15:50",
+        "flightno": "KE686",
+        "departure": "Ho Chi Minh City (SGN)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8224",
+        "status": "Landed 15:32"
+    }, {
+        "est": "16:27",
+        "flightno": "VN404",
+        "departure": "Ho Chi Minh City (SGN)",
+        "carrior": "Vietnam Airlines",
+        "type": "A321",
+        "reg": "VN-A357",
+        "status": "Landed 16:50"
+    }, {
+        "est": "19:25",
+        "flightno": "OZ732",
+        "departure": "Ho Chi Minh City (SGN)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8039",
+        "status": "Landed 19:29"
+    }, {
+        "est": "19:49",
+        "flightno": "KE682",
+        "departure": "Ho Chi Minh City (SGN)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8241",
+        "status": "Landed 19:59"
+    }, {
+        "est": "12:00",
+        "flightno": "UO618",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Hong Kong Express",
+        "type": "A320",
+        "reg": "B-LCH",
+        "status": "Landed 11:33"
+    }, {
+        "est": "12:25",
+        "flightno": "CX434",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Cathay Pacific",
+        "type": "333",
+        "reg": "Canceled",
+        "status": ""
+    }, {
+        "est": "15:24",
+        "flightno": "CX410",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Cathay Pacific",
+        "type": "B773",
+        "reg": "B-HNK",
+        "status": "Landed 17:22"
+    }, {
+        "est": "16:45",
+        "flightno": "KE604",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8011",
+        "status": "Landed 16:41"
+    }, {
+        "est": "17:40",
+        "flightno": "ZE932",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Eastar Jet",
+        "type": "B738",
+        "reg": "HL8057",
+        "status": "Landed 17:31"
+    }, {
+        "est": "17:43",
+        "flightno": "OZ722",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7421",
+        "status": "Landed 17:49"
+    }, {
+        "est": "17:56",
+        "flightno": "LJ114",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Jin Air",
+        "type": "B772",
+        "reg": "HL7733",
+        "status": "Landed 17:50"
+    }, {
+        "est": "18:15",
+        "flightno": "7C2102",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8050",
+        "status": "Landed 19:05"
+    }, {
+        "est": "18:16",
+        "flightno": "Q12102",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "18:20",
+        "flightno": "OZ724",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8059",
+        "status": "Landed 18:25"
+    }, {
+        "est": "18:45",
+        "flightno": "KE614",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8250",
+        "status": "Landed 18:40"
+    }, {
+        "est": "19:07",
+        "flightno": "CX418",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Cathay Pacific",
+        "type": "B773",
+        "reg": "B-HNJ",
+        "status": "Landed 19:00"
+    }, {
+        "est": "19:56",
+        "flightno": "ET608",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Ethiopian Airlines",
+        "type": "B788",
+        "reg": "ET-ASH",
+        "status": "Landed 20:19"
+    }, {
+        "est": "20:11",
+        "flightno": "TG628",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Thai Airways",
+        "type": "A333",
+        "reg": "HS-TBG",
+        "status": "Landed 20:44"
+    }, {
+        "est": "20:15",
+        "flightno": "PO916",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Polar Air Cargo",
+        "type": "B748",
+        "reg": "N858GT",
+        "status": "Landed 20:26"
+    }, {
+        "est": "21:16",
+        "flightno": "CX416",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Cathay Pacific",
+        "type": "B772",
+        "reg": "B-HNC",
+        "status": "Landed 21:24"
+    }, {
+        "est": "22:25",
+        "flightno": "UO3626",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Hong Kong Express",
+        "type": "A320",
+        "reg": "B-LPE",
+        "status": "Landed 22:09"
+    }, {
+        "est": "22:38",
+        "flightno": "KE602",
+        "departure": "Hong Kong (HKG)",
+        "carrior": "Korean Air",
+        "type": "B744",
+        "reg": "HL7495",
+        "status": "Landed 22:12"
+    }, {
+        "est": "17:10",
+        "flightno": "OZ231",
+        "departure": "Honolulu (HNL)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL8258",
+        "status": "Landed 16:50"
+    }, {
+        "est": "17:15",
+        "flightno": "KE54",
+        "departure": "Honolulu (HNL)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8275",
+        "status": "Landed 17:08"
+    }, {
+        "est": "17:55",
+        "flightno": "LJ602",
+        "departure": "Honolulu (HNL)",
+        "carrior": "Jin Air",
+        "type": "B772",
+        "reg": "HL7734",
+        "status": "Landed 17:43"
+    }, {
+        "est": "15:26",
+        "flightno": "KE30",
+        "departure": "Houston (IAH)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7530",
+        "status": "Landed 15:22"
+    }, {
+        "est": "13:00",
+        "flightno": "KE956",
+        "departure": "Istanbul (IST)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7715",
+        "status": "Landed 12:18"
+    }, {
+        "est": "16:57",
+        "flightno": "TK90",
+        "departure": "Istanbul (IST)",
+        "carrior": "Turkish Airlines",
+        "type": "B77W",
+        "reg": "TC-JJP",
+        "status": "Landed 17:03"
+    }, {
+        "est": "08:30",
+        "flightno": "GA878",
+        "departure": "Jakarta (CGK)",
+        "carrior": "Garuda Indonesia",
+        "type": "A332",
+        "reg": "PK-GPO",
+        "status": "Landed 08:25"
+    }, {
+        "est": "08:55",
+        "flightno": "OZ762",
+        "departure": "Jakarta (CGK)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL8293",
+        "status": "Landed 09:08"
+    }, {
+        "est": "22:24",
+        "flightno": "OZ8988",
+        "departure": "Jeju (CJU)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8266",
+        "status": "Landed 22:34"
+    }, {
+        "est": "10:46",
+        "flightno": "SC4095",
+        "departure": "Jinan (TNA)",
+        "carrior": "Shandong Airlines",
+        "type": "B738",
+        "reg": "B-7085",
+        "status": "Landed 10:46"
+    }, {
+        "est": "11:35",
+        "flightno": "CF215",
+        "departure": "Jinan (TNA)",
+        "carrior": "China ostal Airlines",
+        "type": "73F",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "12:26",
+        "flightno": "ZE812",
+        "departure": "Jinan (TNA)",
+        "carrior": "Eastar Jet",
+        "type": "738",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "17:47",
+        "flightno": "KE848",
+        "departure": "Jinan (TNA)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8273",
+        "status": "Landed 17:32"
+    }, {
+        "est": "21:41",
+        "flightno": "SC4987",
+        "departure": "Jinan (TNA)",
+        "carrior": "Shandong Airlines",
+        "type": "B738",
+        "reg": "B-5491",
+        "status": "Landed 21:56"
+    }, {
+        "est": "15:59",
+        "flightno": "Z238",
+        "departure": "Kalibo (KLO)",
+        "carrior": "Philippines AirAsia",
+        "type": "A320",
+        "reg": "RP-C8971",
+        "status": "Landed 15:37"
+    }, {
+        "est": "19:53",
+        "flightno": "BR172",
+        "departure": "Kaohsiung (KHH)",
+        "carrior": "EVA Air",
+        "type": "A321",
+        "reg": "B-16213",
+        "status": "Landed 19:21"
+    }, {
+        "est": "21:50",
+        "flightno": "AE960",
+        "departure": "Kaohsiung (KHH)",
+        "carrior": "Mandarin Airlines",
+        "type": "E190",
+        "reg": "B-16829",
+        "status": "Landed 22:15"
+    }, {
+        "est": "11:47",
+        "flightno": "SU5450",
+        "departure": "Khabarovsk (KHV)",
+        "carrior": "Aurora",
+        "type": "A319",
+        "reg": "VQ-BBD",
+        "status": "Landed 11:05"
+    }, {
+        "est": "15:22",
+        "flightno": "D7504",
+        "departure": "Kuala Lumpur (KUL)",
+        "carrior": "AirAsia X",
+        "type": "A333",
+        "reg": "9M-XXE",
+        "status": "Landed 15:22"
+    }, {
+        "est": "14:25",
+        "flightno": "KE908",
+        "departure": "London (LHR)",
+        "carrior": "Korean Air",
+        "type": "A388",
+        "reg": "HL7619",
+        "status": "Landed 14:45"
+    }, {
+        "est": "15:51",
+        "flightno": "OZ522",
+        "departure": "London (LHR)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL8254",
+        "status": "Landed 15:18"
+    }, {
+        "est": "17:26",
+        "flightno": "KE18",
+        "departure": "Los Angeles (LAX)",
+        "carrior": "Korean Air",
+        "type": "A388",
+        "reg": "HL7628",
+        "status": "Landed 16:57"
+    }, {
+        "est": "17:37",
+        "flightno": "OZ201",
+        "departure": "Los Angeles (LAX)",
+        "carrior": "Asiana Airlines",
+        "type": "A388",
+        "reg": "HL7626",
+        "status": "Landed 18:02"
+    }, {
+        "est": "00:35",
+        "flightno": "KE274",
+        "departure": "Los Angeles (LAX)",
+        "carrior": "Korean Air",
+        "type": "B77L",
+        "reg": "HL8252",
+        "status": "Landed 23:56"
+    }, {
+        "est": "00:35",
+        "flightno": "KE274",
+        "departure": "Los Angeles (LAX)Korean Air",
+        "carrior": "B77L",
+        "type": "HL8252",
+        "reg": "Landed 23:56",
+        "status": ""
+    }, {
+        "est": "14:05",
+        "flightno": "NX820",
+        "departure": "Macau (MFM)",
+        "carrior": "Air Macau",
+        "type": "A321",
+        "reg": "B-MCC",
+        "status": "Landed 14:15"
+    }, {
+        "est": "12:10",
+        "flightno": "Z2884",
+        "departure": "Manila (MNL)",
+        "carrior": "Philippines AirAsia",
+        "type": "A320",
+        "reg": "RP-C8995",
+        "status": "Unknown"
+    }, {
+        "est": "17:16",
+        "flightno": "OZ702",
+        "departure": "Manila (MNL)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL7791",
+        "status": "Landed 16:55"
+    }, {
+        "est": "17:17",
+        "flightno": "KE622",
+        "departure": "Manila (MNL)",
+        "carrior": "Korean Air",
+        "type": "B773",
+        "reg": "HL7534",
+        "status": "Landed 16:43"
+    }, {
+        "est": "19:36",
+        "flightno": "PR468",
+        "departure": "Manila (MNL)",
+        "carrior": "Philippine Airlines",
+        "type": "A333",
+        "reg": "RP-C8765",
+        "status": "Landed 19:45"
+    }, {
+        "est": "20:12",
+        "flightno": "5J188",
+        "departure": "Manila (MNL)",
+        "carrior": "CEBU Pacific Air",
+        "type": "A320",
+        "reg": "RP-C3276",
+        "status": "Landed 20:31"
+    }, {
+        "est": "19:00",
+        "flightno": "OZ175",
+        "departure": "Matsuyama (MYJ)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8038",
+        "status": "Landed 18:34"
+    }, {
+        "est": "09:40",
+        "flightno": "KE924",
+        "departure": "Moscow (SVO)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL8002",
+        "status": "Landed 09:28"
+    }, {
+        "est": "11:12",
+        "flightno": "SU250",
+        "departure": "Moscow (SVO)",
+        "carrior": "Aeroflot",
+        "type": "B77W",
+        "reg": "VP-BGC",
+        "status": "Landed 11:29"
+    }, {
+        "est": "15:10",
+        "flightno": "KE824",
+        "departure": "Mudanjiang (MDG)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8248",
+        "status": "Landed 15:24"
+    }, {
+        "est": "18:53",
+        "flightno": "CZ6087",
+        "departure": "Mudanjiang (MDG)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-1806",
+        "status": "Landed 18:20"
+    }, {
+        "est": "14:16",
+        "flightno": "KE656",
+        "departure": "Mumbai (BOM)",
+        "carrior": "Korean Air",
+        "type": "A332",
+        "reg": "HL7538",
+        "status": "Landed 14:22"
+    }, {
+        "est": "11:25",
+        "flightno": "KE752",
+        "departure": "Nagoya (NGO)",
+        "carrior": "Korean Air",
+        "type": "B744",
+        "reg": "HL7495",
+        "status": "Landed 10:57"
+    }, {
+        "est": "13:46",
+        "flightno": "OZ121",
+        "departure": "Nagoya (NGO)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8267",
+        "status": "Landed 13:28"
+    }, {
+        "est": "13:57",
+        "flightno": "KE742",
+        "departure": "Nagoya (NGO)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8221",
+        "status": "Landed 13:35"
+    }, {
+        "est": "15:52",
+        "flightno": "7C1601",
+        "departure": "Nagoya (NGO)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8261",
+        "status": "Landed 15:32"
+    }, {
+        "est": "15:53",
+        "flightno": "Q11601",
+        "departure": "Nagoya (NGO)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "19:46",
+        "flightno": "KE744",
+        "departure": "Nagoya (NGO)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8221",
+        "status": "Landed 19:23"
+    }, {
+        "est": "21:17",
+        "flightno": "OZ123",
+        "departure": "Nagoya (NGO)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL7731",
+        "status": "Landed 20:56"
+    }, {
+        "est": "15:27",
+        "flightno": "MM905",
+        "departure": "Naha (OKA)",
+        "carrior": "Peach Aviation",
+        "type": "A320",
+        "reg": "JA817P",
+        "status": "Landed 15:12"
+    }, {
+        "est": "15:43",
+        "flightno": "OZ171",
+        "departure": "Naha (OKA)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL7795",
+        "status": "Landed 15:31"
+    }, {
+        "est": "16:05",
+        "flightno": "LJ246",
+        "departure": "Naha (OKA)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL8012",
+        "status": "Landed 16:03"
+    }, {
+        "est": "17:38",
+        "flightno": "ZE632",
+        "departure": "Naha (OKA)",
+        "carrior": "Eastar Jet",
+        "type": "B738",
+        "reg": "HL8053",
+        "status": "Landed 17:03"
+    }, {
+        "est": "18:54",
+        "flightno": "7C1801",
+        "departure": "Naha (OKA)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8263",
+        "status": "Landed 18:40"
+    }, {
+        "est": "18:55",
+        "flightno": "Q11801",
+        "departure": "Naha (OKA)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "19:37",
+        "flightno": "TW272",
+        "departure": "Naha (OKA)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8294",
+        "status": "Landed 19:39"
+    }, {
+        "est": "21:36",
+        "flightno": "KE736",
+        "departure": "Naha (OKA)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8240",
+        "status": "Landed 21:18"
+    }, {
+        "est": "11:16",
+        "flightno": "MU579",
+        "departure": "Nanjing (NKG)",
+        "carrior": "China Eastern Airlines",
+        "type": "A321",
+        "reg": "B-6368",
+        "status": "Landed 11:48"
+    }, {
+        "est": "18:11",
+        "flightno": "OZ350",
+        "departure": "Nanjing (NKG)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8265",
+        "status": "Landed 19:03"
+    }, {
+        "est": "23:00",
+        "flightno": "MU7837",
+        "departure": "Nanjing (NKG)",
+        "carrior": "China Eastern Airlines",
+        "type": "A321",
+        "reg": "B-6368",
+        "status": "Landed 00:50"
+    }, {
+        "est": "21:38",
+        "flightno": "CZ6043",
+        "departure": "Nanning (NNG)",
+        "carrior": "China Southern Airlines",
+        "type": "B738",
+        "reg": "B-5469",
+        "status": "Landed 23:59"
+    }, {
+        "est": "17:20",
+        "flightno": "KE82",
+        "departure": "New York (JFK)",
+        "carrior": "Korean Air",
+        "type": "A388",
+        "reg": "HL7613",
+        "status": "Landed 17:25"
+    }, {
+        "est": "11:48",
+        "flightno": "KE764",
+        "departure": "Niigata (KIJ)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8246",
+        "status": "Landed 11:28"
+    }, {
+        "est": "11:37",
+        "flightno": "KE748",
+        "departure": "Okayama (OKJ)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL7727",
+        "status": "Landed 11:07"
+    }, {
+        "est": "09:36",
+        "flightno": "MM11",
+        "departure": "Osaka (KIX)",
+        "carrior": "Peach Aviation",
+        "type": "A320",
+        "reg": "JA812P",
+        "status": "Landed 09:20"
+    }, {
+        "est": "11:21",
+        "flightno": "OZ115",
+        "departure": "Osaka (KIX)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8265",
+        "status": "Landed 10:52"
+    }, {
+        "est": "11:20",
+        "flightno": "KE722",
+        "departure": "Osaka (KIX)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7574",
+        "status": "Landed 11:00"
+    }, {
+        "est": "12:35",
+        "flightno": "LJ212",
+        "departure": "Osaka (KIX)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7565",
+        "status": "Landed 12:18"
+    }, {
+        "est": "12:40",
+        "flightno": "OZ111",
+        "departure": "Osaka (KIX)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL7794",
+        "status": "Landed 12:31"
+    }, {
+        "est": "13:01",
+        "flightno": "ZE612",
+        "departure": "Osaka (KIX)",
+        "carrior": "Eastar Jet",
+        "type": "B738",
+        "reg": "HL8292",
+        "status": "Landed 13:24"
+    }, {
+        "est": "13:11",
+        "flightno": "TW282",
+        "departure": "Osaka (KIX)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8294",
+        "status": "Landed 13:02"
+    }, {
+        "est": "13:50",
+        "flightno": "7C1301",
+        "departure": "Osaka (KIX)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8297",
+        "status": "Unknown"
+    }, {
+        "est": "13:51",
+        "flightno": "Q11301",
+        "departure": "Osaka (KIX)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "14:17",
+        "flightno": "KE724",
+        "departure": "Osaka (KIX)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7586",
+        "status": "Landed 14:07"
+    }, {
+        "est": "15:00",
+        "flightno": "OZ1153",
+        "departure": "Osaka (KIX)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL8293",
+        "status": "Landed 15:11"
+    }, {
+        "est": "17:03",
+        "flightno": "TW284",
+        "departure": "Osaka (KIX)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8024",
+        "status": "Landed 16:47"
+    }, {
+        "est": "18:26",
+        "flightno": "ZE614",
+        "departure": "Osaka (KIX)",
+        "carrior": "Eastar Jet",
+        "type": "738",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "18:31",
+        "flightno": "LJ214",
+        "departure": "Osaka (KIX)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7565",
+        "status": "Landed 18:15"
+    }, {
+        "est": "18:50",
+        "flightno": "OZ113",
+        "departure": "Osaka (KIX)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL7794",
+        "status": "Landed 18:37"
+    }, {
+        "est": "20:00",
+        "flightno": "MM9",
+        "departure": "Osaka (KIX)",
+        "carrior": "Peach Aviation",
+        "type": "A320",
+        "reg": "JA806P",
+        "status": "Landed 19:54"
+    }, {
+        "est": "20:05",
+        "flightno": "KE726",
+        "departure": "Osaka (KIX)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL7784",
+        "status": "Landed 19:42"
+    }, {
+        "est": "20:25",
+        "flightno": "CX35",
+        "departure": "Osaka (KIX)",
+        "carrior": "Cathay Pacific",
+        "type": "B744",
+        "reg": "B-LID",
+        "status": "Landed 20:06"
+    }, {
+        "est": "21:42",
+        "flightno": "7C1305",
+        "departure": "Osaka (KIX)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8261",
+        "status": "Landed 21:14"
+    }, {
+        "est": "21:55",
+        "flightno": "MM11",
+        "departure": "Osaka (KIX)",
+        "carrior": "Peach Aviation",
+        "type": "A320",
+        "reg": "JA802P",
+        "status": "Landed 21:41"
+    }, {
+        "est": "13:52",
+        "flightno": "OZ502",
+        "departure": "Paris (CDG)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL7597",
+        "status": "Landed 14:14"
+    }, {
+        "est": "15:01",
+        "flightno": "KE902",
+        "departure": "Paris (CDG)",
+        "carrior": "Korean Air",
+        "type": "A388",
+        "reg": "HL7615",
+        "status": "Landed 14:54"
+    }, {
+        "est": "14:20",
+        "flightno": "MM5Osaka (KIX)",
+        "departure": "Peach Aviation",
+        "carrior": "",
+        "type": "A320",
+        "reg": "JA812P",
+        "status": "Landed 14:20"
+    }, {
+        "est": "16:46",
+        "flightno": "KE368",
+        "departure": "Penang (PEN)",
+        "carrior": "Korean Air",
+        "type": "B77L",
+        "reg": "HL8226",
+        "status": "Landed 16:15"
+    }, {
+        "est": "08:51",
+        "flightno": "KE638",
+        "departure": "Phuket (HKT)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7553",
+        "status": "Landed 08:44"
+    }, {
+        "est": "09:15",
+        "flightno": "ZE532",
+        "departure": "Phuket (HKT)",
+        "carrior": "Eastar Jet",
+        "type": "B738",
+        "reg": "HL8053",
+        "status": "Landed 08:29"
+    }, {
+        "est": "09:35",
+        "flightno": "OZ748",
+        "departure": "Phuket (HKT)",
+        "carrior": "Asiana Airlines",
+        "type": "A332",
+        "reg": "HL7746",
+        "status": "Landed 09:26"
+    }, {
+        "est": "10:45",
+        "flightno": "ZE532",
+        "departure": "Phuket (HKT)",
+        "carrior": "Eastar Jet",
+        "type": "738",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "11:23",
+        "flightno": "KE936",
+        "departure": "Prague (PRG)",
+        "carrior": "Korean Air",
+        "type": "B748",
+        "reg": "HL7636",
+        "status": "Landed 11:38"
+    }, {
+        "est": "10:56",
+        "flightno": "MU2039",
+        "departure": "Qingdao (TAO)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-9900",
+        "status": "Landed 10:41"
+    }, {
+        "est": "11:15",
+        "flightno": "SC4617",
+        "departure": "Qingdao (TAO)",
+        "carrior": "Shandong Airlines",
+        "type": "B738",
+        "reg": "B-5321",
+        "status": "Landed 10:58"
+    }, {
+        "est": "12:11",
+        "flightno": "KE846",
+        "departure": "Qingdao (TAO)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8273",
+        "status": "Landed 12:16"
+    }, {
+        "est": "12:15",
+        "flightno": "MU2033",
+        "departure": "Qingdao (TAO)",
+        "carrior": "China Eastern Airlines",
+        "type": "A321",
+        "reg": "B-1640",
+        "status": "Landed 12:00"
+    }, {
+        "est": "12:23",
+        "flightno": "7C8402",
+        "departure": "Qingdao (TAO)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8263",
+        "status": "Landed 12:19"
+    }, {
+        "est": "12:24",
+        "flightno": "Q18402",
+        "departure": "Qingdao (TAO)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "12:50",
+        "flightno": "CA127",
+        "departure": "Qingdao (TAO)",
+        "carrior": "Air China",
+        "type": "A321",
+        "reg": "B-6595",
+        "status": "Landed 12:48"
+    }, {
+        "est": "13:02",
+        "flightno": "OZ318",
+        "departure": "Qingdao (TAO)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8060",
+        "status": "Landed 13:22"
+    }, {
+        "est": "13:15",
+        "flightno": "MU5021",
+        "departure": "Qingdao (TAO)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-6929",
+        "status": "Landed 13:28"
+    }, {
+        "est": "14:30",
+        "flightno": "SC4081",
+        "departure": "Qingdao (TAO)",
+        "carrior": "Shandong Airlines",
+        "type": "B738",
+        "reg": "B-1982",
+        "status": "Landed 14:48"
+    }, {
+        "est": "15:45",
+        "flightno": "SC4721",
+        "departure": "Qingdao (TAO)",
+        "carrior": "Shandong Airlines",
+        "type": "B738",
+        "reg": "B-5513",
+        "status": "Landed 15:42"
+    }, {
+        "est": "15:54",
+        "flightno": "MU559",
+        "departure": "Qingdao (TAO)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-6586",
+        "status": "Landed 16:02"
+    }, {
+        "est": "17:21",
+        "flightno": "KE842",
+        "departure": "Qingdao (TAO)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7551",
+        "status": "Landed 17:10"
+    }, {
+        "est": "18:56",
+        "flightno": "OZ320",
+        "departure": "Qingdao (TAO)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8267",
+        "status": "Landed 18:47"
+    }, {
+        "est": "20:40",
+        "flightno": "MU2043",
+        "departure": "Qingdao (TAO)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-6586",
+        "status": "Landed 20:58"
+    }, {
+        "est": "20:46",
+        "flightno": "SC4777",
+        "departure": "Qingdao (TAO)",
+        "carrior": "Shandong Airlines",
+        "type": "B738",
+        "reg": "B-5513",
+        "status": "Landed 20:32"
+    }, {
+        "est": "20:47",
+        "flightno": "CA133",
+        "departure": "Qingdao (TAO)",
+        "carrior": "Air China",
+        "type": "A320",
+        "reg": "B-1873",
+        "status": "Landed 21:47"
+    }, {
+        "est": "22:05",
+        "flightno": "OZ3405",
+        "departure": "Qiqihar (NDG)",
+        "carrior": "Asiana Airlines",
+        "type": "A320",
+        "reg": "HL7738",
+        "status": "Landed 21:50"
+    }, {
+        "est": "15:30",
+        "flightno": "KE932",
+        "departure": "Rome (FCO)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8217",
+        "status": "Landed 15:04"
+    }, {
+        "est": "18:35",
+        "flightno": "TW296",
+        "departure": "Saga (HSG)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8000",
+        "status": "Landed 18:18"
+    }, {
+        "est": "08:31",
+        "flightno": "7C3403",
+        "departure": "Saipan (SPN)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8033",
+        "status": "Landed 07:55 "
+    }, {
+        "est": "18:05",
+        "flightno": "LJ652",
+        "departure": "Saipan (SPN)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL8015",
+        "status": "Landed 17:34"
+    }, {
+        "est": "19:47",
+        "flightno": "Q13401",
+        "departure": "Saipan (SPN)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "19:48",
+        "flightno": "7C3401",
+        "departure": "Saipan (SPN)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8033",
+        "status": "Landed 19:33"
+    }, {
+        "est": "14:52",
+        "flightno": "UA893",
+        "departure": "San Francisco (SFO)",
+        "carrior": "United Airlines",
+        "type": "B744",
+        "reg": "N180UA",
+        "status": "Landed 14:25"
+    }, {
+        "est": "17:27",
+        "flightno": "OZ211",
+        "departure": "San Francisco (SFO)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL7732",
+        "status": "Landed 18:22"
+    }, {
+        "est": "17:48",
+        "flightno": "KE24",
+        "departure": "San Francisco (SFO)",
+        "carrior": "Korean Air",
+        "type": "B748",
+        "reg": "HL7630",
+        "status": "Landed 17:56"
+    }, {
+        "est": "18:41",
+        "flightno": "SQ15",
+        "departure": "San Francisco (SFO)",
+        "carrior": "Singapore Airlines",
+        "type": "B77W",
+        "reg": "9V-SWK",
+        "status": "Landed 18:13"
+    }, {
+        "est": "11:56",
+        "flightno": "KE796",
+        "departure": "Sapporo (CTS)",
+        "carrior": "Korean Air",
+        "type": "A332",
+        "reg": "HL7552",
+        "status": "Landed 11:18"
+    }, {
+        "est": "15:11",
+        "flightno": "LJ232",
+        "departure": "Sapporo (CTS)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL8014",
+        "status": "Landed 14:41"
+    }, {
+        "est": "17:11",
+        "flightno": "KE766",
+        "departure": "Sapporo (CTS)",
+        "carrior": "Korean Air",
+        "type": "B773",
+        "reg": "HL7533",
+        "status": "Landed 16:47"
+    }, {
+        "est": "20:03",
+        "flightno": "TW252",
+        "departure": "Sapporo (CTS)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8232",
+        "status": "Landed 19:31"
+    }, {
+        "est": "21:11",
+        "flightno": "OZ173",
+        "departure": "Sapporo (CTS)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7528",
+        "status": "Landed 20:58"
+    }, {
+        "est": "08:26",
+        "flightno": "KE8220",
+        "departure": "Seattle (SEA)",
+        "carrior": "Korean Air",
+        "type": "B77L",
+        "reg": "HL8251",
+        "status": "Landed 08:17"
+    }, {
+        "est": "15:46",
+        "flightno": "DL199",
+        "departure": "Seattle (SEA)",
+        "carrior": "Delta Air Lines",
+        "type": "B763",
+        "reg": "N1604R",
+        "status": "Landed 14:55"
+    }, {
+        "est": "17:39",
+        "flightno": "KE20",
+        "departure": "Seattle (SEA)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8009",
+        "status": "Landed 16:37"
+    }, {
+        "est": "18:00",
+        "flightno": "OZ271",
+        "departure": "Seattle (SEA)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL7739",
+        "status": "Landed 17:34"
+    }, {
+        "est": "20:42",
+        "flightno": "PO751",
+        "departure": "Seattle (SEA)",
+        "carrior": "Polar Air Cargo",
+        "type": "B744",
+        "reg": "N453PA",
+        "status": "Landed 19:59"
+    }, {
+        "est": "15:13",
+        "flightno": "OZ151",
+        "departure": "Sendai (SDJ)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8278",
+        "status": "Landed 14:46"
+    }, {
+        "est": "08:35",
+        "flightno": "KE336",
+        "departure": "Shanghai (PVG)",
+        "carrior": "Korean Air",
+        "type": "B748",
+        "reg": "HL7624",
+        "status": "Landed 09:21"
+    }, {
+        "est": "11:14",
+        "flightno": "CZ313",
+        "departure": "Shanghai (PVG)",
+        "carrior": "China Southern Airlines",
+        "type": "A320",
+        "reg": "B-6681",
+        "status": "Landed 11:11"
+    }, {
+        "est": "11:31",
+        "flightno": "OZ368",
+        "departure": "Shanghai (PVG)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7514",
+        "status": "Landed 11:37"
+    }, {
+        "est": "11:53",
+        "flightno": "KE896",
+        "departure": "Shanghai (PVG)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7531",
+        "status": "Landed 12:23"
+    }, {
+        "est": "11:57",
+        "flightno": "MU5041",
+        "departure": "Shanghai (PVG)",
+        "carrior": "China Eastern Airlines",
+        "type": "A333",
+        "reg": "B-6095",
+        "status": "Landed 12:31"
+    }, {
+        "est": "14:05",
+        "flightno": "KE894",
+        "departure": "Shanghai (PVG)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8209",
+        "status": "Landed 14:27"
+    }, {
+        "est": "14:31",
+        "flightno": "OZ362",
+        "departure": "Shanghai (PVG)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL7755",
+        "status": "Landed 14:40"
+    }, {
+        "est": "15:20",
+        "flightno": "MU5033",
+        "departure": "Shanghai (PVG)",
+        "carrior": "China Eastern Airlines",
+        "type": "B77W",
+        "reg": "B-7347",
+        "status": "Landed 15:41"
+    }, {
+        "est": "15:56",
+        "flightno": "9C8559",
+        "departure": "Shanghai (PVG)",
+        "carrior": "Spring Airlines",
+        "type": "A320",
+        "reg": "B-6972",
+        "status": "Landed 15:34"
+    }, {
+        "est": "15:57",
+        "flightno": "OZ364",
+        "departure": "Shanghai (PVG)",
+        "carrior": "Asiana Airlines",
+        "type": "A332",
+        "reg": "HL7746",
+        "status": "Landed 17:01"
+    }, {
+        "est": "16:37",
+        "flightno": "KE898",
+        "departure": "Shanghai (PVG)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL8002",
+        "status": "Landed 17:59"
+    }, {
+        "est": "17:28",
+        "flightno": "FM827",
+        "departure": "Shanghai (PVG)",
+        "carrior": "Shanghai Airlines",
+        "type": "B738",
+        "reg": "B-1949",
+        "status": "Landed 18:15"
+    }, {
+        "est": "19:15",
+        "flightno": "OZ366",
+        "departure": "Shanghai (PVG)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7418",
+        "status": "Landed 20:05"
+    }, {
+        "est": "20:06",
+        "flightno": "CZ369",
+        "departure": "Shanghai (PVG)",
+        "carrior": "China Southern Airlines",
+        "type": "A320",
+        "reg": "B-6620",
+        "status": "Landed 20:12"
+    }, {
+        "est": "20:48",
+        "flightno": "MU5051",
+        "departure": "Shanghai (PVG)",
+        "carrior": "China Eastern Airlines",
+        "type": "A333",
+        "reg": "B-5953",
+        "status": "Landed 21:06"
+    }, {
+        "est": "11:38",
+        "flightno": "CZ681",
+        "departure": "Shenyang (SHE)",
+        "carrior": "China Southern Airlines",
+        "type": "321",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "13:05",
+        "flightno": "KE832",
+        "departure": "Shenyang (SHE)",
+        "carrior": "Korean Air",
+        "type": "B773",
+        "reg": "HL7532",
+        "status": "Landed 13:03"
+    }, {
+        "est": "19:30",
+        "flightno": "CZ671",
+        "departure": "Shenyang (SHE)",
+        "carrior": "China Southern Airlines",
+        "type": "321",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "19:45",
+        "flightno": "KE834",
+        "departure": "Shenyang (SHE)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7715",
+        "status": "Landed 19:35"
+    }, {
+        "est": "13:58",
+        "flightno": "ZH9787",
+        "departure": "Shenzhen (SZX)",
+        "carrior": "Shenzhen Airlines",
+        "type": "B738",
+        "reg": "B-1940",
+        "status": "Landed 13:54"
+    }, {
+        "est": "17:44",
+        "flightno": "KE828",
+        "departure": "Shenzhen (SZX)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7540",
+        "status": "Landed 17:41"
+    }, {
+        "est": "18:21",
+        "flightno": "OZ372",
+        "departure": "Shenzhen (SZX)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8018",
+        "status": "Landed 18:30"
+    }, {
+        "est": "20:13",
+        "flightno": "ZH9035",
+        "departure": "Shenzhen (SZX)",
+        "carrior": "Shenzhen Airlines",
+        "type": "B738",
+        "reg": "B-5736",
+        "status": "Landed 19:51"
+    }, {
+        "est": "13:41",
+        "flightno": "CF227",
+        "departure": "Shijiazhuang (SJW)",
+        "carrior": "China Postal Airlines",
+        "type": "73F",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "21:12",
+        "flightno": "9C8789",
+        "departure": "Shijiazhuang (SJW)",
+        "carrior": "Spring Airlines",
+        "type": "A320",
+        "reg": "B-1893",
+        "status": "Landed 21:09"
+    }, {
+        "est": "08:25",
+        "flightno": "KE642",
+        "departure": "Singapore (SIN)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8041",
+        "status": "Landed 08:43"
+    }, {
+        "est": "15:36",
+        "flightno": "SQ600",
+        "departure": "Singapore (SIN)",
+        "carrior": "Singapore Airlines",
+        "type": "A333",
+        "reg": "9V-SSA",
+        "status": "Landed 15:18"
+    }, {
+        "est": "16:47",
+        "flightno": "SQ16",
+        "departure": "Singapore (SIN)",
+        "carrior": "Singapore Airlines",
+        "type": "B77W",
+        "reg": "9V-SWO",
+        "status": "Landed 16:39"
+    }, {
+        "est": "16:51",
+        "flightno": "OZ384",
+        "departure": "Singapore (SIN)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7618",
+        "status": "Landed 17:10"
+    }, {
+        "est": "22:30",
+        "flightno": "SQ602",
+        "departure": "Singapore (SIN)",
+        "carrior": "Singapore Airlines",
+        "type": "A333",
+        "reg": "9V-STD",
+        "status": "Landed 22:27"
+    }, {
+        "est": "17:49",
+        "flightno": "KE122",
+        "departure": "Sydney (SYD)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL8025",
+        "status": "Landed 17:20"
+    }, {
+        "est": "19:01",
+        "flightno": "OZ602",
+        "departure": "Sydney (SYD)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL8259",
+        "status": "Landed 19:14"
+    }, {
+        "est": "10:55",
+        "flightno": "AE230",
+        "departure": "Taipei (TPE)",
+        "carrior": "Mandarin Airlines",
+        "type": "E190",
+        "reg": "B-16829",
+        "status": "Landed 10:55"
+    }, {
+        "est": "11:01",
+        "flightno": "B7170",
+        "departure": "Taipei (TPE)",
+        "carrior": "UNI Air",
+        "type": "A321",
+        "reg": "B-16209",
+        "status": "Landed 10:39"
+    }, {
+        "est": "11:10",
+        "flightno": "CI160",
+        "departure": "Taipei (TPE)",
+        "carrior": "China Airlines",
+        "type": "B77W",
+        "reg": "B-18003",
+        "status": "Landed 11:21"
+    }, {
+        "est": "13:53",
+        "flightno": "LJ82",
+        "departure": "Taipei (TPE)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL8016",
+        "status": "Landed 14:01"
+    }, {
+        "est": "15:05",
+        "flightno": "7C2602",
+        "departure": "Taipei (TPE)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8239",
+        "status": "Landed 15:05"
+    }, {
+        "est": "15:06",
+        "flightno": "Q12602",
+        "departure": "Taipei (TPE)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "16:15",
+        "flightno": "TG634",
+        "departure": "Taipei (TPE)",
+        "carrior": "Thai Airways",
+        "type": "A333",
+        "reg": "HS-TBF",
+        "status": "Landed 16:20"
+    }, {
+        "est": "16:30",
+        "flightno": "OZ712",
+        "departure": "Taipei (TPE)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL7756",
+        "status": "Landed 16:00"
+    }, {
+        "est": "17:04",
+        "flightno": "KE692",
+        "departure": "Taipei (TPE)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL8001",
+        "status": "Landed 16:31"
+    }, {
+        "est": "18:46",
+        "flightno": "BR160",
+        "departure": "Taipei (TPE)",
+        "carrior": "EVA Air",
+        "type": "A333",
+        "reg": "B-16333",
+        "status": "Landed 18:35"
+    }, {
+        "est": "19:39",
+        "flightno": "CI162",
+        "departure": "Taipei (TPE)",
+        "carrior": "China Airlines",
+        "type": "B738",
+        "reg": "B-18615",
+        "status": "Landed 19:54"
+    }, {
+        "est": "20:20",
+        "flightno": "OZ714",
+        "departure": "Taipei (TPE)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7516",
+        "status": "Landed 20:51"
+    }, {
+        "est": "21:04",
+        "flightno": "CX420",
+        "departure": "Taipei (TPE)",
+        "carrior": "Cathay Pacific",
+        "type": "B772",
+        "reg": "B-HNB",
+        "status": "Landed 20:37"
+    }, {
+        "est": "21:58",
+        "flightno": "CI148",
+        "departure": "Taipei (TPE)",
+        "carrior": "China Airlines",
+        "type": "B738",
+        "reg": "B-18657",
+        "status": "Landed 22:03"
+    }, {
+        "est": "22:50",
+        "flightno": "KE694",
+        "departure": "Taipei (TPE)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7721",
+        "status": "Landed 22:18"
+    }, {
+        "est": "23:55",
+        "flightno": "BR150",
+        "departure": "Taipei (TPE)",
+        "carrior": "EVA Air",
+        "type": "A333",
+        "reg": "B-16335",
+        "status": "Landed 23:47"
+    }, {
+        "est": "20:26",
+        "flightno": "OZ165",
+        "departure": "Takamatsu (TAK)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8278",
+        "status": "Unknown"
+    }, {
+        "est": "08:52",
+        "flightno": "OZ574",
+        "departure": "Tashkent (TAS)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7515",
+        "status": "Landed 11:26"
+    }, {
+        "est": "10:31",
+        "flightno": "GS7993",
+        "departure": "Tianjin (TSN)",
+        "carrior": "Tianjin Airlines",
+        "type": "A320",
+        "reg": "B-8069",
+        "status": "Landed 10:18"
+    }, {
+        "est": "11:49",
+        "flightno": "CA171",
+        "departure": "Tianjin (TSN)",
+        "carrior": "Air China",
+        "type": "B738",
+        "reg": "B-5485",
+        "status": "Landed 11:22"
+    }, {
+        "est": "13:03",
+        "flightno": "OZ328",
+        "departure": "Tianjin (TSN)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7528",
+        "status": "Landed 12:58"
+    }, {
+        "est": "13:43",
+        "flightno": "CF207",
+        "departure": "Tianjin (TSN)",
+        "carrior": "China Postal Airlines",
+        "type": "73F",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "14:11",
+        "flightno": "KE806",
+        "departure": "Tianjin (TSN)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7721",
+        "status": "Landed 13:59"
+    }, {
+        "est": "15:31",
+        "flightno": "OZ942",
+        "departure": "Tianjin (TSN)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7436",
+        "status": "Landed 20:59"
+    }, {
+        "est": "16:28",
+        "flightno": "CA801",
+        "departure": "Tianjin (TSN)",
+        "carrior": "Air China",
+        "type": "B738",
+        "reg": "B-1528",
+        "status": "Landed 16:37"
+    }, {
+        "est": "17:41",
+        "flightno": "KE864",
+        "departure": "Tianjin (TSN)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7553",
+        "status": "Landed 17:39"
+    }, {
+        "est": "18:01",
+        "flightno": "OZ998",
+        "departure": "Tianjin (TSN)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7507",
+        "status": "Landed 18:30"
+    }, {
+        "est": "18:42",
+        "flightno": "KE318",
+        "departure": "Tianjin (TSN)",
+        "carrior": "Korean Air",
+        "type": "B748",
+        "reg": "HL7624",
+        "status": "Landed 18:35"
+    }, {
+        "est": "08:50",
+        "flightno": "KE720",
+        "departure": "Tokyo (HND)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8249",
+        "status": "Landed 08:22"
+    }, {
+        "est": "11:30",
+        "flightno": "OZ107",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8266",
+        "status": "Unknown"
+    }, {
+        "est": "11:54",
+        "flightno": "KE706",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8218",
+        "status": "Landed 11:27"
+    }, {
+        "est": "13:20",
+        "flightno": "LJ202",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7559",
+        "status": "Landed 12:56"
+    }, {
+        "est": "14:33",
+        "flightno": "7C1101",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8049",
+        "status": "Landed 14:09"
+    }, {
+        "est": "14:34",
+        "flightno": "Q11101",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "14:36",
+        "flightno": "ZE602",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Eastar Jet",
+        "type": "B738",
+        "reg": "HL8035",
+        "status": "Landed 14:01"
+    }, {
+        "est": "15:03",
+        "flightno": "OZ101",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL8282",
+        "status": "Landed 14:35"
+    }, {
+        "est": "15:15",
+        "flightno": "KE702",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7714",
+        "status": "Landed 14:53"
+    }, {
+        "est": "15:35",
+        "flightno": "TW202",
+        "departure": "Tokyo (NRT)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8253",
+        "status": "Landed 14:57"
+    }, {
+        "est": "16:22",
+        "flightno": "KE704",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL7783",
+        "status": "Landed 15:57"
+    }, {
+        "est": "16:23",
+        "flightno": "OZ103",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL7790",
+        "status": "Landed 15:55"
+    }, {
+        "est": "16:31",
+        "flightno": "7C1105",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8020",
+        "status": "Landed 16:22"
+    }, {
+        "est": "16:32",
+        "flightno": "Q11105",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "19:26",
+        "flightno": "KE2",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7720",
+        "status": "Landed 19:10"
+    }, {
+        "est": "20:28",
+        "flightno": "LJ204",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7559",
+        "status": "Landed 20:22"
+    }, {
+        "est": "20:49",
+        "flightno": "UA79",
+        "departure": "Tokyo (NRT)",
+        "carrior": "United Airlines",
+        "type": "B738",
+        "reg": "N77295",
+        "status": "Landed 20:15"
+    }, {
+        "est": "21:05",
+        "flightno": "KE552",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Korean Air",
+        "type": "B748",
+        "reg": "HL7623",
+        "status": "Landed 20:46"
+    }, {
+        "est": "21:13",
+        "flightno": "7C1103",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Jeju Air",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "21:14",
+        "flightno": "Q11103",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "21:20",
+        "flightno": "JL959",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Japan Airlines",
+        "type": "B738",
+        "reg": "JA310J",
+        "status": "Landed 21:05"
+    }, {
+        "est": "21:30",
+        "flightno": "OZ105",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8004",
+        "status": "Landed 21:19"
+    }, {
+        "est": "21:35",
+        "flightno": "ZE604",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Eastar Jet",
+        "type": "B738",
+        "reg": "HL8292",
+        "status": "Landed 21:11"
+    }, {
+        "est": "22:31",
+        "flightno": "NH8475",
+        "departure": "Tokyo (NRT)",
+        "carrior": "All Nippon Airways",
+        "type": "76F",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "22:33",
+        "flightno": "OZ1816",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Asiana Airlines",
+        "type": "76F",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "23:45",
+        "flightno": "LH8386",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Lufthansa",
+        "type": "77F",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "23:25",
+        "flightno": "LH8387",
+        "departure": "Tokyo (NRT)",
+        "carrior": "Lufthansa Cargo",
+        "type": "B77L",
+        "reg": "D-ALFA",
+        "status": "Landed 23:16"
+    }, {
+        "est": "16:24",
+        "flightno": "AC61",
+        "departure": "Toronto (YYZ)",
+        "carrior": "Air Canada",
+        "type": "B789",
+        "reg": "C-FNOI",
+        "status": "Landed 16:35"
+    }, {
+        "est": "14:00",
+        "flightno": "OZ127",
+        "departure": "Toyama (TOY)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8038",
+        "status": "Landed 13:42"
+    }, {
+        "est": "12:52",
+        "flightno": "OM301",
+        "departure": "Ulan Bator (ULN)",
+        "carrior": "MIAT Mongolian Airlines",
+        "type": "B763",
+        "reg": "EI-FGN",
+        "status": "Landed 13:09"
+    }, {
+        "est": "22:45",
+        "flightno": "R3535",
+        "departure": "Ulan-Ude (UUD)",
+        "carrior": "Yakutia Airlines",
+        "type": "SU95",
+        "reg": "RA-89021",
+        "status": "Unknown"
+    }, {
+        "est": "14:13",
+        "flightno": "CZ6017",
+        "departure": "Urumqi (URC)",
+        "carrior": "China Southern Airlines",
+        "type": "B737",
+        "reg": "B-5250",
+        "status": "Landed 14:39"
+    }, {
+        "est": "13:47",
+        "flightno": "AC63",
+        "departure": "Vancouver (YVR)",
+        "carrior": "Air Canada",
+        "type": "B789",
+        "reg": "C-FPQB",
+        "status": "Landed 13:32"
+    }, {
+        "est": "17:42",
+        "flightno": "KE72",
+        "departure": "Vancouver (YVR)",
+        "carrior": "Korean Air",
+        "type": "B748",
+        "reg": "HL7632",
+        "status": "Landed 17:20"
+    }, {
+        "est": "11:58",
+        "flightno": "KE938",
+        "departure": "Vienna (VIE)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL7784",
+        "status": "Landed 11:32"
+    }, {
+        "est": "12:12",
+        "flightno": "SU5436",
+        "departure": "Vladivostok (VVO)",
+        "carrior": "Aurora",
+        "type": "A319",
+        "reg": "VQ-BWV",
+        "status": "Landed 11:50"
+    }, {
+        "est": "16:33",
+        "flightno": "KE982",
+        "departure": "Vladivostok (VVO)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8249",
+        "status": "Landed 16:16"
+    }, {
+        "est": "17:13",
+        "flightno": "SU5434",
+        "departure": "Vladivostok (VVO)",
+        "carrior": "Aurora",
+        "type": "A319",
+        "reg": "VP-BUO",
+        "status": "Landed 16:43"
+    }, {
+        "est": "22:20",
+        "flightno": "S7557",
+        "departure": "Vladivostok (VVO)",
+        "carrior": "S7 Airlines",
+        "type": "A320",
+        "reg": "VP-BCP",
+        "status": "Landed 21:43"
+    }, {
+        "est": "17:08",
+        "flightno": "KE94",
+        "departure": "Washington (IAD)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8006",
+        "status": "Landed 16:54"
+    }, {
+        "est": "12:27",
+        "flightno": "OZ310",
+        "departure": "Weihai (WEH)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8280",
+        "status": "Landed 12:10"
+    }, {
+        "est": "13:16",
+        "flightno": "MU2017",
+        "departure": "Weihai (WEH)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-6008",
+        "status": "Landed 12:55"
+    }, {
+        "est": "13:59",
+        "flightno": "7C8562",
+        "departure": "Weihai (WEH)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8051",
+        "status": "Landed 14:07"
+    }, {
+        "est": "14:02",
+        "flightno": "Q18562",
+        "departure": "Weihai (WEH)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "17:50",
+        "flightno": "KE840",
+        "departure": "Weihai (WEH)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8246",
+        "status": "Landed 17:22"
+    }, {
+        "est": "18:57",
+        "flightno": "7C8504",
+        "departure": "Weihai (WEH)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8051",
+        "status": "Landed 18:49"
+    }, {
+        "est": "18:58",
+        "flightno": "Q18504",
+        "departure": "Weihai (WEH)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "16:38",
+        "flightno": "TW612",
+        "departure": "Wenzhou (WNZ)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8069",
+        "status": "Landed 17:03"
+    }, {
+        "est": "12:02",
+        "flightno": "CZ6079",
+        "departure": "Wuhan (WUH)",
+        "carrior": "China Southern Airlines",
+        "type": "B738",
+        "reg": "B-5189",
+        "status": "Landed 11:54"
+    }, {
+        "est": "16:02",
+        "flightno": "KE882",
+        "departure": "Wuhan (WUH)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8223",
+        "status": "Landed 15:57"
+    }, {
+        "est": "16:50",
+        "flightno": "KE808",
+        "departure": "Xi'an (XIY)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7587",
+        "status": "Landed 16:25"
+    }, {
+        "est": "17:06",
+        "flightno": "OZ348",
+        "departure": "Xi'an (XIY)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7248",
+        "status": "Landed 16:47"
+    }, {
+        "est": "17:51",
+        "flightno": "CF201",
+        "departure": "Xi'an (XIY)",
+        "carrior": "China Postal Airlines",
+        "type": "73F",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "21:44",
+        "flightno": "MU2065",
+        "departure": "Xi'an (XIY)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-2212",
+        "status": "Landed 21:09"
+    }, {
+        "est": "17:30",
+        "flightno": "KE888",
+        "departure": "Xiamen (XMN)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8225",
+        "status": "Landed 17:05"
+    }, {
+        "est": "19:58",
+        "flightno": "MF871",
+        "departure": "Xiamen (XMN)",
+        "carrior": "Xiamen Airlines",
+        "type": "B738",
+        "reg": "B-1749",
+        "status": "Landed 20:39"
+    }, {
+        "est": "10:30",
+        "flightno": "R3505",
+        "departure": "Yakutsk (YKS)",
+        "carrior": "Yakutia Airlines",
+        "type": "SU9",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "14:04",
+        "flightno": "OZ338",
+        "departure": "Yancheng (YNZ)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8004",
+        "status": "Landed 13:54"
+    }, {
+        "est": "13:13",
+        "flightno": "CA143",
+        "departure": "Yanji (YNJ)",
+        "carrior": "Air China",
+        "type": "B738",
+        "reg": "B-5438",
+        "status": "Landed 12:36"
+    }, {
+        "est": "13:25",
+        "flightno": "CZ6073",
+        "departure": "Yanji (YNJ)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-1606",
+        "status": "Landed 12:49"
+    }, {
+        "est": "15:29",
+        "flightno": "OZ352",
+        "departure": "Yanji (YNJ)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL7731",
+        "status": "Landed 15:01"
+    }, {
+        "est": "15:48",
+        "flightno": "KE826",
+        "departure": "Yanji (YNJ)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL7706",
+        "status": "Landed 16:27"
+    }, {
+        "est": "11:00",
+        "flightno": "MU549",
+        "departure": "Yantai (YNT)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-8276",
+        "status": "Landed 11:09"
+    }, {
+        "est": "14:56",
+        "flightno": "OZ986",
+        "departure": "Yantai (YNT)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7419",
+        "status": "Landed 15:14"
+    }, {
+        "est": "14:55",
+        "flightno": "MU267",
+        "departure": "Yantai (YNT)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-9901",
+        "status": "Landed 18:32"
+    }, {
+        "est": "15:58",
+        "flightno": "OZ962",
+        "departure": "Yantai (YNT)",
+        "carrior": "Asiana Airlines",
+        "type": "74Y",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "17:51",
+        "flightno": "OZ308",
+        "departure": "Yantai (YNT)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8060",
+        "status": "Landed 18:04"
+    }, {
+        "est": "21:06",
+        "flightno": "SC4707",
+        "departure": "Yantai (YNT)",
+        "carrior": "Shandong Airlines",
+        "type": "B738",
+        "reg": "B-5537",
+        "status": "Landed 20:48"
+    }, {
+        "est": "21:08",
+        "flightno": "MU5049",
+        "departure": "Yantai (YNT)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-9901",
+        "status": "Landed 22:29"
+    }, {
+        "est": "17:31",
+        "flightno": "OZ163",
+        "departure": "Yonago (YGJ)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8280",
+        "status": "Unknown"
+    }, {
+        "est": "12:45",
+        "flightno": "SU5496",
+        "departure": "Yuzhno-Sakhalinsk (UUS)",
+        "carrior": "Aurora",
+        "type": "A319",
+        "reg": "VP-BUK",
+        "status": "Landed 12:54"
+    }, {
+        "est": "14:14",
+        "flightno": "KE810",
+        "departure": "Zhengzhou (CGO)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7585",
+        "status": "Landed 14:33"
+    }, {
+        "est": "19:40",
+        "flightno": "CZ6009",
+        "departure": "Zhengzhou (CGO)",
+        "carrior": "China Southern Airlines",
+        "type": "B738",
+        "reg": "B-5715",
+        "status": "Landed 20:37"
+    }]
+}

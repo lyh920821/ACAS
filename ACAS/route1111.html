@@ -1,0 +1,142 @@
+<script>
+	var load = [
+		['A16', 'D', 70],
+		['B', 'C', 4],
+		['C', 'D', 55],
+		['A153', 'B', 3],
+		['A153', 'F', 15],
+		['B', 'T', 30],
+		['T', 'D', 30],
+		['A153', 'H', 1],
+		['H', 'C', 1],
+		['B', 'G', 29],
+		['G', 'H', 20],
+		['T', 'I', 20],
+		['I', 'D', 20],
+		['A153', 'E', 20],
+		['D', 'A153', 1],
+		['A16', 'A153', 1]
+	];
+
+	// var load = [['F','D',15],['B','C',4],['C','D',5],['A','B',3],['A','F',15],['B','T',30],['T','D',30],['A','H',1],['H','C',1],['B','G',20],['G','H',20],['T','I',20],['I','D',20]];
+
+	var load = [
+		['F', 'D', 15],
+		['B', 'C', 4],
+		['C', 'D', 5],
+		['A', 'B', 3],
+		['A', 'F', 15],
+		['B', 'T', 30],
+		['T', 'D', 30],
+		['A', 'H', 1],
+		['H', 'C', 50],
+		['B', 'G', 20],
+		['G', 'H', 20],
+		['T', 'I', 20],
+		['I', 'D', 20]
+	];
+	var F, Dest;
+	F = "A"; // start
+	Dest = "D"; // ends
+
+
+	// for (var i = load.length - 1; i >= 0; i--) {
+	// 	console.log(load[i][0]);
+	// 	// if (F == load[i][0][0]) {
+	// 	// console.log(load[i][0][0]);	
+	// 	// }
+	// }
+
+	var key, next, saved;
+
+	key = 0;
+	next = 1;
+	saved = "";
+
+	var result;
+	result = new Array();
+
+	var conclusion;
+	conclusion = new Array();
+
+	var runningTime;
+	runningTime = new Array();
+
+	var saved = "";
+
+	function findRoute(from, to, ods) {
+		if (ods == null) {
+			ods = ""
+		}
+		if (from == Dest) {
+			result.push(ods + to);
+		}
+
+		for (var K = 0; K < load.length; K++) {
+			if (load[K][0] == from) {
+				stack = ods + load[K][0] + ">";
+				console.log(stack);
+
+				for (var R = 0; R < stack.split(">").length; R++) {
+					console.log(stack.split(">")[R]);
+					if (stack.split(">")[R] == to) {
+						return;
+					}
+				}
+				findRoute(load[K][1], to, stack);
+			}
+		}
+
+		if (stack.split(">")[R] == "A") {
+			console.log(stack.split(">")[R] + "jjjj");
+			return;
+		}
+		return;
+	}
+
+	findRoute(F, Dest);
+
+	// console.log(result);
+
+	for (var k = result.length - 1; k >= 0; k--) {
+
+		if (result[k].split(">")[0].toString() == F) {
+			// console.log("match>>"+result[k]);
+			conclusion.push(result[k]);
+		}
+	}
+
+	// console.log(conclusion);
+	for (var i = 0; i < conclusion.length; i++) {
+		// console.log(">>>>>>>>>>"+conclusion[i]);
+		var runtime = 0;
+		for (var R = 0; R < conclusion[i].split(">").length; R++) {
+			for (var z = 0; z < load.length; z++) {
+				if (conclusion[i].split(">")[R] == load[z][0]) {
+					if (conclusion[i].split(">")[R + 1] == load[z][1]) {
+						runtime += load[z][2];
+						// console.log("zzzzzzzz>>"+conclusion[i].split(">")[R]+">"+conclusion[i].split(">")[R+1]+":"+load[z][2]+" / "+runtime);
+					}
+				}
+			}
+		}
+		runningTime.push(runtime);
+		runtime = 0;
+	}
+	console.log(conclusion);
+	console.log(runningTime);
+
+	var lowestValue = 1000; // 이 값보다 작을것으로 예상
+	var lowestPosition = 0; // 결과 위치
+	for (var i = runningTime.length - 1; i >= 0; i--) {
+		if (runningTime[i] < lowestValue) {
+			lowestValue = runningTime[i];
+			lowestPosition = i;
+		}
+	}
+
+
+	console.log(lowestPosition);
+
+	console.log("결과 >>>>>>>>>>>>>" + conclusion[lowestPosition] + " / " + runningTime[lowestPosition]);
+</script>

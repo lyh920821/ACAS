@@ -1,0 +1,3419 @@
+{
+    "departure": [{
+        "est": "08:30",
+        "flightno": "7C1102",
+        "to": "Tokyo (NRT)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8049",
+        "status": "Departed 08:46"
+    }, {
+        "est": "08:31",
+        "flightno": "Q11102",
+        "to": "Tokyo (NRT)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "08:32",
+        "flightno": "PR485",
+        "to": "Cebu (CEB)",
+        "carrior": "Philippine Airlines",
+        "type": "A321",
+        "reg": "RP-C9901",
+        "status": "Departed 08:49"
+    }, {
+        "est": "08:33",
+        "flightno": "MU2044",
+        "to": "Qingdao (TAO)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-6003",
+        "status": "Departed 08:45"
+    }, {
+        "est": "08:34",
+        "flightno": "KE813",
+        "to": "Hefei (HFE)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8247",
+        "status": "Departed 08:50"
+    }, {
+        "est": "08:35",
+        "flightno": "KE479",
+        "to": "Hanoi (HAN)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8272",
+        "status": "Departed 08:58"
+    }, {
+        "est": "08:36",
+        "flightno": "KE893",
+        "to": "Shanghai (PVG)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8209",
+        "status": "Departed 09:13"
+    }, {
+        "est": "08:41",
+        "flightno": "OZ727",
+        "to": "Hanoi (HAN)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8281",
+        "status": "Departed 09:11"
+    }, {
+        "est": "08:42",
+        "flightno": "OZ369",
+        "to": "Guangzhou (CAN)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL7736",
+        "status": "Departed 09:07"
+    }, {
+        "est": "08:43",
+        "flightno": "OZ353",
+        "to": "Chongqing (CKG)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8256",
+        "status": "Departed 08:56"
+    }, {
+        "est": "08:44",
+        "flightno": "OZ331",
+        "to": "Beijing (PEK)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8279",
+        "status": "Departed 08:54"
+    }, {
+        "est": "08:45",
+        "flightno": "ZE611",
+        "to": "Osaka (KIX)",
+        "carrior": "Eastar Jet",
+        "type": "B738",
+        "reg": "HL8292",
+        "status": "Departed 09:34"
+    }, {
+        "est": "08:46",
+        "flightno": "KE823",
+        "to": "Mudanjiang (MDG)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8248",
+        "status": "Departed 09:04"
+    }, {
+        "est": "08:47",
+        "flightno": "CX415",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Cathay Pacific",
+        "type": "B773",
+        "reg": "B-HNH",
+        "status": "Departed 09:02"
+    }, {
+        "est": "08:48",
+        "flightno": "CA134",
+        "to": "Qingdao (TAO)",
+        "carrior": "Air China",
+        "type": "A320",
+        "reg": "B-6607",
+        "status": "Departed 09:00"
+    }, {
+        "est": "08:50",
+        "flightno": "KE827",
+        "to": "Shenzhen (SZX)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7540",
+        "status": "Departed 09:25"
+    }, {
+        "est": "08:55",
+        "flightno": "ZE931",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Eastar Jet",
+        "type": "B738",
+        "reg": "HL8057",
+        "status": "Departed 09:16"
+    }, {
+        "est": "08:57",
+        "flightno": "MU5052",
+        "to": "Shanghai (PVG)",
+        "carrior": "China Eastern Airlines",
+        "type": "A332",
+        "reg": "B-6123",
+        "status": "Departed 17:12"
+    }, {
+        "est": "09:01",
+        "flightno": "OZ721",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7421",
+        "status": "Departed 09:22"
+    }, {
+        "est": "09:02",
+        "flightno": "OZ309",
+        "to": "Weihai (WEH)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8280",
+        "status": "Departed 09:20"
+    }, {
+        "est": "09:03",
+        "flightno": "SQ607",
+        "to": "Singapore (SIN)",
+        "carrior": "Singapore Airlines",
+        "type": "A333",
+        "reg": "9V-SSH",
+        "status": "Departed 09:14"
+    }, {
+        "est": "09:04",
+        "flightno": "OZ102",
+        "to": "Tokyo (NRT)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL8282",
+        "status": "Departed 09:08"
+    }, {
+        "est": "09:05",
+        "flightno": "OZ132",
+        "to": "Fukuoka (FUK)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7418",
+        "status": "Departed 09:52"
+    }, {
+        "est": "09:06",
+        "flightno": "KE865",
+        "to": "Guangzhou (CAN)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7554",
+        "status": "Departed 09:30"
+    }, {
+        "est": "09:07",
+        "flightno": "7C2601",
+        "to": "Taipei (TPE)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8239",
+        "status": "Departed 09:34"
+    }, {
+        "est": "09:08",
+        "flightno": "Q12601",
+        "to": "Taipei (TPE)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "09:09",
+        "flightno": "OZ361",
+        "to": "Shanghai (PVG)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL7755",
+        "status": "Departed 09:27"
+    }, {
+        "est": "09:10",
+        "flightno": "KE657",
+        "to": "Bangkok (BKK)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7524",
+        "status": "Departed 09:38"
+    }, {
+        "est": "09:11",
+        "flightno": "KE881",
+        "to": "Wuhan (WUH)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8223",
+        "status": "Departed 09:46"
+    }, {
+        "est": "09:12",
+        "flightno": "KE741",
+        "to": "Nagoya (NGO)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8221",
+        "status": "Departed 09:30"
+    }, {
+        "est": "09:13",
+        "flightno": "KE701",
+        "to": "Tokyo (NRT)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7714",
+        "status": "Departed 09:27"
+    }, {
+        "est": "09:14",
+        "flightno": "7C1302",
+        "to": "Osaka (KIX)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8297",
+        "status": "Departed 09:32"
+    }, {
+        "est": "09:15",
+        "flightno": "Q11302",
+        "to": "Osaka (KIX)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "09:16",
+        "flightno": "OZ122",
+        "to": "Nagoya (NGO)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8267",
+        "status": "Departed 09:25"
+    }, {
+        "est": "09:17",
+        "flightno": "OZ128",
+        "to": "Toyama (TOY)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8038",
+        "status": "Departed 09:14"
+    }, {
+        "est": "09:18",
+        "flightno": "OZ317",
+        "to": "Qingdao (TAO)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8060",
+        "status": "Departed 09:36"
+    }, {
+        "est": "09:19",
+        "flightno": "KE807",
+        "to": "Xi'an (XIY)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7587",
+        "status": "Departed 09:42"
+    }, {
+        "est": "09:20",
+        "flightno": "KE805",
+        "to": "Tianjin (TSN)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7721",
+        "status": "Departed 09:48"
+    }, {
+        "est": "09:21",
+        "flightno": "CX421",
+        "to": "Taipei (TPE)",
+        "carrior": "Cathay Pacific",
+        "type": "B773",
+        "reg": "B-HNG",
+        "status": "Departed 09:32"
+    }, {
+        "est": "09:22",
+        "flightno": "KE29",
+        "to": "Houston (IAH)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7575",
+        "status": "Departed 09:39"
+    }, {
+        "est": "09:23",
+        "flightno": "KE35",
+        "to": "Atlanta (ATL)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8042",
+        "status": "Departed 09:41"
+    }, {
+        "est": "09:24",
+        "flightno": "AF267",
+        "to": "Paris (CDG)",
+        "carrior": "Air France",
+        "type": "B77W",
+        "reg": "F-GSQD",
+        "status": "Departed 09:44"
+    }, {
+        "est": "09:30",
+        "flightno": "7C3402",
+        "to": "Saipan (SPN)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8033",
+        "status": "Departed 10:06"
+    }, {
+        "est": "09:31",
+        "flightno": "Q13402",
+        "to": "Saipan (SPN)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "09:32",
+        "flightno": "LJ641",
+        "to": "Guam (GUM)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7563",
+        "status": "Departed 10:03"
+    }, {
+        "est": "09:33",
+        "flightno": "OZ351",
+        "to": "Yanji (YNJ)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL7731",
+        "status": "Departed 09:40"
+    }, {
+        "est": "09:34",
+        "flightno": "TG659",
+        "to": "Bangkok (BKK)",
+        "carrior": "Thai Airways",
+        "type": "B773",
+        "reg": "HS-TKD",
+        "status": "Departed 09:50"
+    }, {
+        "est": "09:35",
+        "flightno": "KE73",
+        "to": "Toronto (YYZ)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8208",
+        "status": "Departed 09:56"
+    }, {
+        "est": "09:36",
+        "flightno": "OZ337",
+        "to": "Yancheng (YNZ)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8004",
+        "status": "Departed 09:51"
+    }, {
+        "est": "09:37",
+        "flightno": "OZ152",
+        "to": "Sendai (SDJ)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8278",
+        "status": "Departed 09:50"
+    }, {
+        "est": "09:40",
+        "flightno": "LJ113",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Jin Air",
+        "type": "B772",
+        "reg": "HL7733",
+        "status": "Departed 10:02"
+    }, {
+        "est": "09:41",
+        "flightno": "OZ301",
+        "to": "Dalian (DLC)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7516",
+        "status": "Departed 10:19"
+    }, {
+        "est": "09:45",
+        "flightno": "NH8476",
+        "to": "Tokyo (NRT)",
+        "carrior": "All Nippon Airways",
+        "type": "76F",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "09:46",
+        "flightno": "NQ8476",
+        "to": "Tokyo (NRT)",
+        "carrior": "Air Japan",
+        "type": "B763",
+        "reg": "JA8664",
+        "status": "Departed 09:45"
+    }, {
+        "est": "09:50",
+        "flightno": "KE825",
+        "to": "Yanji (YNJ)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL7706",
+        "status": "Departed 10:04"
+    }, {
+        "est": "09:53",
+        "flightno": "OZ303",
+        "to": "Changchun (CGQ)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL8286",
+        "status": "Departed 10:00"
+    }, {
+        "est": "09:55",
+        "flightno": "7C2101",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8050",
+        "status": "Departed 11:07"
+    }, {
+        "est": "09:57",
+        "flightno": "Q12101",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "10:00",
+        "flightno": "OZ723",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8059",
+        "status": "Departed 10:22"
+    }, {
+        "est": "10:02",
+        "flightno": "OZ371",
+        "to": "Shenzhen (SZX)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8018",
+        "status": "Departed 10:12"
+    }, {
+        "est": "10:03",
+        "flightno": "OZ347",
+        "to": "Xi'an (XIY)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7248",
+        "status": "Departed 10:10"
+    }, {
+        "est": "10:04",
+        "flightno": "OZ172",
+        "to": "Naha (OKA)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL7795",
+        "status": "Departed 10:29"
+    }, {
+        "est": "10:05",
+        "flightno": "OZ104",
+        "to": "Tokyo (NRT)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL7790",
+        "status": "Departed 10:09"
+    }, {
+        "est": "10:06",
+        "flightno": "KE113",
+        "to": "Guam (GUM)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7584",
+        "status": "Departed 10:19"
+    }, {
+        "est": "10:07",
+        "flightno": "OZ711",
+        "to": "Taipei (TPE)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL7756",
+        "status": "Departed 10:07"
+    }, {
+        "est": "10:08",
+        "flightno": "KE81",
+        "to": "New York (JFK)",
+        "carrior": "Korean Air",
+        "type": "A388",
+        "reg": "HL7627",
+        "status": "Departed 10:37"
+    }, {
+        "est": "10:09",
+        "flightno": "TW291",
+        "to": "Fukuoka (FUK)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8000",
+        "status": "Departed 10:17"
+    }, {
+        "est": "10:10",
+        "flightno": "OZ1163",
+        "to": "Osaka (KIX)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL8293",
+        "status": "Departed 11:16"
+    }, {
+        "est": "10:11",
+        "flightno": "VN417",
+        "to": "Hanoi (HAN)",
+        "carrior": "Vietnam Airlines",
+        "type": "B772",
+        "reg": "VN-A143",
+        "status": "Departed 10:24"
+    }, {
+        "est": "10:12",
+        "flightno": "KE613",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8250",
+        "status": "Departed 10:47"
+    }, {
+        "est": "10:13",
+        "flightno": "KE981",
+        "to": "Vladivostok (VVO)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8249",
+        "status": "Departed 10:38"
+    }, {
+        "est": "10:14",
+        "flightno": "HY512",
+        "to": "Tashkent (TAS)",
+        "carrior": "Uzbekistan Airways",
+        "type": "B763",
+        "reg": "UK-67003",
+        "status": "Departed 10:34"
+    }, {
+        "est": "10:15",
+        "flightno": "KE765",
+        "to": "Sapporo (CTS)",
+        "carrior": "Korean Air",
+        "type": "B773",
+        "reg": "HL7533",
+        "status": "Departed 10:26"
+    }, {
+        "est": "10:16",
+        "flightno": "MM2",
+        "to": "Osaka (KIX)",
+        "carrior": "Peach Aviation",
+        "type": "A320",
+        "reg": "JA812P",
+        "status": "Departed 10:29"
+    }, {
+        "est": "10:17",
+        "flightno": "VN409",
+        "to": "Ho Chi Minh City (SGN)",
+        "carrior": "Vietnam Airlines",
+        "type": "B772",
+        "reg": "VN-A144",
+        "status": "Departed 10:33"
+    }, {
+        "est": "10:20",
+        "flightno": "TG629",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Thai Airways",
+        "type": "A333",
+        "reg": "HS-TBA",
+        "status": "Departed 11:32"
+    }, {
+        "est": "10:21",
+        "flightno": "KE887",
+        "to": "Xiamen (XMN)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8225",
+        "status": "Departed 10:36"
+    }, {
+        "est": "10:22",
+        "flightno": "AY42",
+        "to": "Helsinki (HEL)",
+        "carrior": "Finnair",
+        "type": "A359",
+        "reg": "OH-LWC",
+        "status": "Departed 10:31"
+    }, {
+        "est": "10:23",
+        "flightno": "DL158",
+        "to": "Detroit (DTW)",
+        "carrior": "Delta Air Lines",
+        "type": "B744",
+        "reg": "N673US",
+        "status": "Departed 11:15"
+    }, {
+        "est": "10:30",
+        "flightno": "KE93",
+        "to": "Washington (IAD)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8041",
+        "status": "Departed 10:44"
+    }, {
+        "est": "10:31",
+        "flightno": "OZ222",
+        "to": "New York (JFK)",
+        "carrior": "Asiana Airlines",
+        "type": "A388",
+        "reg": "HL7625",
+        "status": "Departed 10:54"
+    }, {
+        "est": "10:32",
+        "flightno": "7C1106",
+        "to": "Tokyo (NRT)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8020",
+        "status": "Departed 11:13"
+    }, {
+        "est": "10:35",
+        "flightno": "7C3102",
+        "to": "Guam (GUM)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8287",
+        "status": "Departed 11:09"
+    }, {
+        "est": "10:36",
+        "flightno": "Q13102",
+        "to": "Guam (GUM)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "10:37",
+        "flightno": "Q11106",
+        "to": "Tokyo (NRT)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "10:38",
+        "flightno": "LJ245",
+        "to": "Naha (OKA)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL8012",
+        "status": "Departed 10:51"
+    }, {
+        "est": "10:39",
+        "flightno": "GA879",
+        "to": "Jakarta (CGK)",
+        "carrior": "Garuda Indonesia",
+        "type": "A332",
+        "reg": "PK-GPO",
+        "status": "Departed 15:58"
+    }, {
+        "est": "10:40",
+        "flightno": "KE691",
+        "to": "Taipei (TPE)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL8001",
+        "status": "Departed 10:55"
+    }, {
+        "est": "10:41",
+        "flightno": "BA18",
+        "to": "London (LHR)",
+        "carrior": "British Airways",
+        "type": "B788",
+        "reg": "G-ZBJC",
+        "status": "Departed 10:53"
+    }, {
+        "est": "10:42",
+        "flightno": "7C8561",
+        "to": "Weihai (WEH)",
+        "carrior": "Jeju Air",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "10:43",
+        "flightno": "Q18561",
+        "to": "Weihai (WEH)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "10:44",
+        "flightno": "QV912",
+        "to": "Vientiane (VTE)",
+        "carrior": "Lao Airlines",
+        "type": "A320",
+        "reg": "RDPL-34188",
+        "status": "Departed 10:58"
+    }, {
+        "est": "10:45",
+        "flightno": "OZ997",
+        "to": "Tianjin (TSN)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7507",
+        "status": "Departed 12:00"
+    }, {
+        "est": "10:46",
+        "flightno": "KE37",
+        "to": "Chicago (ORD)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8007",
+        "status": "Departed 11:05"
+    }, {
+        "est": "10:47",
+        "flightno": "LJ57",
+        "to": "Hanoi (HAN)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7798",
+        "status": "Departed 11:11"
+    }, {
+        "est": "10:50",
+        "flightno": "OZ363",
+        "to": "Shanghai (PVG)",
+        "carrior": "Asiana Airlines",
+        "type": "A332",
+        "reg": "HL7746",
+        "status": "Departed 11:18"
+    }, {
+        "est": "10:55",
+        "flightno": "CA740",
+        "to": "Wenzhou (WNZ)",
+        "carrior": "Air China",
+        "type": "A320",
+        "reg": "B-6773",
+        "status": "Departed 11:02"
+    }, {
+        "est": "11:00",
+        "flightno": "OZ985",
+        "to": "Yantai (YNT)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7419",
+        "status": "Departed 11:29"
+    }, {
+        "est": "11:01",
+        "flightno": "MH67",
+        "to": "Kuala Lumpur (KUL)",
+        "carrior": "Malaysia Airlines",
+        "type": "A333",
+        "reg": "9M-MTK",
+        "status": "Departed 11:22"
+    }, {
+        "est": "11:05",
+        "flightno": "VJ961",
+        "to": "Hanoi (HAN)",
+        "carrior": "VietJet Air",
+        "type": "A320",
+        "reg": "VN-A664",
+        "status": "Departed 11:25"
+    }, {
+        "est": "11:07",
+        "flightno": "GA871",
+        "to": "Denpasar (DPS)",
+        "carrior": "Garuda Indonesia",
+        "type": "A333",
+        "reg": "PK-GPU",
+        "status": "Departed 11:36"
+    }, {
+        "est": "11:10",
+        "flightno": "7C1602",
+        "to": "Nagoya (NGO)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8261",
+        "status": "Departed 11:27"
+    }, {
+        "est": "11:12",
+        "flightno": "TW611",
+        "to": "Wenzhou (WNZ)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8069",
+        "status": "Departed 11:39"
+    }, {
+        "est": "11:13",
+        "flightno": "Q11602",
+        "to": "Nagoya (NGO)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "11:14",
+        "flightno": "JL954",
+        "to": "Tokyo (NRT)",
+        "carrior": "Japan Airlines",
+        "type": "B738",
+        "reg": "JA312J",
+        "status": "Departed 11:24"
+    }, {
+        "est": "11:15",
+        "flightno": "CX417",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Cathay Pacific",
+        "type": "A333",
+        "reg": "B-HLT",
+        "status": "Departed 11:53"
+    }, {
+        "est": "11:16",
+        "flightno": "XJ701",
+        "to": "Bangkok (DMK)",
+        "carrior": "Thai AirAsia X",
+        "type": "A333",
+        "reg": "HS-XTD",
+        "status": "Departed 11:44"
+    }, {
+        "est": "11:17",
+        "flightno": "CZ340",
+        "to": "Guangzhou (CAN)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-1848",
+        "status": "Departed 11:48"
+    }, {
+        "est": "11:20",
+        "flightno": "Y87422",
+        "to": "Qingdao (TAO)",
+        "carrior": "Yangtze River Express",
+        "type": "73Y",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "11:21",
+        "flightno": "VN431",
+        "to": "Da Nang (DAD)",
+        "carrior": "Vietnam Airlines",
+        "type": "A321",
+        "reg": "VN-A356",
+        "status": "Departed 11:50"
+    }, {
+        "est": "11:22",
+        "flightno": "CZ686",
+        "to": "Dalian (DLC)",
+        "carrior": "China Southern Airlines",
+        "type": "321",
+        "reg": "Departed 11:41",
+        "status": ""
+    }, {
+        "est": "11:25",
+        "flightno": "KE897",
+        "to": "Shanghai (PVG)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL8002",
+        "status": "Departed 11:58"
+    }, {
+        "est": "11:30",
+        "flightno": "ZE631",
+        "to": "Naha (OKA)",
+        "carrior": "Eastar Jet",
+        "type": "B738",
+        "reg": "HL8053",
+        "status": "Departed 12:02"
+    }, {
+        "est": "11:34",
+        "flightno": "KE317",
+        "to": "Tianjin (TSN)",
+        "carrior": "Korean Air",
+        "type": "B748",
+        "reg": "HL7624",
+        "status": "Departed 12:04"
+    }, {
+        "est": "11:40",
+        "flightno": "VJ863",
+        "to": "Ho Chi Minh City (SGN)",
+        "carrior": "VietJet Air",
+        "type": "A320",
+        "reg": "VN-A676",
+        "status": "Departed 12:29"
+    }, {
+        "est": "11:43",
+        "flightno": "GS7994",
+        "to": "Tianjin (TSN)",
+        "carrior": "Tianjin Airlines",
+        "type": "A320",
+        "reg": "B-8069",
+        "status": "Departed 11:56"
+    }, {
+        "est": "11:45",
+        "flightno": "SC4096",
+        "to": "Jinan (TNA)",
+        "carrior": "Shandong Airlines",
+        "type": "B738",
+        "reg": "B-7085",
+        "status": "Departed 12:08"
+    }, {
+        "est": "11:55",
+        "flightno": "MU2040",
+        "to": "Qingdao (TAO)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-9900",
+        "status": "Departed 12:15"
+    }, {
+        "est": "11:57",
+        "flightno": "AE961",
+        "to": "Kaohsiung (KHH)",
+        "carrior": "Mandarin Airlines",
+        "type": "E190",
+        "reg": "B-16829",
+        "status": "Departed"
+    }, {
+        "est": "12:00",
+        "flightno": "LJ223",
+        "to": "Fukuoka (FUK)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7562",
+        "status": "Departed 12:21"
+    }, {
+        "est": "12:02",
+        "flightno": "MU550",
+        "to": "Yantai (YNT)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-8276",
+        "status": "Departed 12:19"
+    }, {
+        "est": "12:06",
+        "flightno": "CZ314",
+        "to": "Shanghai (PVG)",
+        "carrior": "China Southern Airlines",
+        "type": "A320",
+        "reg": "B-6681",
+        "status": "Departed 12:25"
+    }, {
+        "est": "12:10",
+        "flightno": "OZ339",
+        "to": "Harbin (HRB)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL7740",
+        "status": "Departed 12:27"
+    }, {
+        "est": "12:15",
+        "flightno": "MU580",
+        "to": "Nanjing (NKG)",
+        "carrior": "China Eastern Airlines",
+        "type": "A321",
+        "reg": "B-6368",
+        "status": "Departed 13:11"
+    }, {
+        "est": "12:17",
+        "flightno": "SC4618",
+        "to": "Qingdao (TAO)",
+        "carrior": "Shandong Airlines",
+        "type": "B738",
+        "reg": "B-5321",
+        "status": "Departed 12:31"
+    }, {
+        "est": "12:25",
+        "flightno": "TW283",
+        "to": "Osaka (KIX)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8024",
+        "status": "Departed 12:42"
+    }, {
+        "est": "12:28",
+        "flightno": "OZ359",
+        "to": "Hangzhou (HGH)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7514",
+        "status": "Departed 13:03"
+    }, {
+        "est": "12:30",
+        "flightno": "OZ541",
+        "to": "Frankfurt (FRA)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7423",
+        "status": "Departed 12:44"
+    }, {
+        "est": "12:31",
+        "flightno": "OZ349",
+        "to": "Nanjing (NKG)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8265",
+        "status": "Departed 12:40"
+    }, {
+        "est": "12:32",
+        "flightno": "OZ134",
+        "to": "Fukuoka (FUK)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8266",
+        "status": "Departed 12:46"
+    }, {
+        "est": "12:35",
+        "flightno": "R3536",
+        "to": "Ulan-Ude (UUD)",
+        "carrior": "Yakutia Airlines",
+        "type": "SU95",
+        "reg": "RA-89021",
+        "status": "Departed"
+    }, {
+        "est": "12:37",
+        "flightno": "OZ561",
+        "to": "Rome (FCO)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL7596",
+        "status": "Departed 12:52"
+    }, {
+        "est": "12:38",
+        "flightno": "UA78",
+        "to": "Tokyo (NRT)",
+        "carrior": "United Airlines",
+        "type": "B738",
+        "reg": "N73299",
+        "status": "Departed 12:38"
+    }, {
+        "est": "12:39",
+        "flightno": "KE863",
+        "to": "Tianjin (TSN)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7553",
+        "status": "Departed 13:02"
+    }, {
+        "est": "12:40",
+        "flightno": "CI161",
+        "to": "Taipei (TPE)",
+        "carrior": "China Airlines",
+        "type": "B77W",
+        "reg": "B-18003",
+        "status": "Departed 12:59"
+    }, {
+        "est": "12:45",
+        "flightno": "KE913",
+        "to": "Madrid (MAD)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8274",
+        "status": "Departed 13:33"
+    }, {
+        "est": "12:46",
+        "flightno": "CZ682",
+        "to": "Shenyang (SHE)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-2288",
+        "status": "Departed 12:48"
+    }, {
+        "est": "12:48",
+        "flightno": "CA172",
+        "to": "Tianjin (TSN)",
+        "carrior": "Air China",
+        "type": "B738",
+        "reg": "B-5485",
+        "status": "Departed 12:57"
+    }, {
+        "est": "12:50",
+        "flightno": "OK191",
+        "to": "Prague (PRG)",
+        "carrior": "Czech Airlines",
+        "type": "A333",
+        "reg": "OK-YBA",
+        "status": "Departed 13:09"
+    }, {
+        "est": "12:51",
+        "flightno": "CZ6088",
+        "to": "Mudanjiang (MDG)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-1806",
+        "status": "Departed 13:05"
+    }, {
+        "est": "12:55",
+        "flightno": "Z2885",
+        "to": "Manila (MNL)",
+        "carrior": "Philippines AirAsia",
+        "type": "A320",
+        "reg": "RP-C8995",
+        "status": "Departed"
+    }, {
+        "est": "12:57",
+        "flightno": "UO619",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Hong Kong Express",
+        "type": "A320",
+        "reg": "B-LCH",
+        "status": "Departed 13:08"
+    }, {
+        "est": "12:58",
+        "flightno": "KC210",
+        "to": "Astana (TSE)",
+        "carrior": "Air Astana",
+        "type": "B752",
+        "reg": "P4-GAS",
+        "status": "Departed 13:13"
+    }, {
+        "est": "12:59",
+        "flightno": "CZ6080",
+        "to": "Wuhan (WUH)",
+        "carrior": "China Southern Airlines",
+        "type": "B738",
+        "reg": "B-5189",
+        "status": "Departed 13:15"
+    }, {
+        "est": "13:00",
+        "flightno": "MU5042",
+        "to": "Shanghai (PVG)",
+        "carrior": "China Eastern Airlines",
+        "type": "A333",
+        "reg": "B-6095",
+        "status": "Departed 13:44"
+    }, {
+        "est": "13:01",
+        "flightno": "SU5451",
+        "to": "Khabarovsk (KHV)",
+        "carrior": "Aeroflot",
+        "type": "A319",
+        "reg": "VQ-BBD",
+        "status": "Departed 13:10"
+    }, {
+        "est": "13:02",
+        "flightno": "KE869",
+        "to": "Dalian (DLC)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7574",
+        "status": "Departed 13:29"
+    }, {
+        "est": "13:03",
+        "flightno": "OZ333",
+        "to": "Beijing (PEK)",
+        "carrior": "Asiana Airlines",
+        "type": "333",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "13:05",
+        "flightno": "SU5437",
+        "to": "Vladivostok (VVO)",
+        "carrior": "Aeroflot",
+        "type": "A319",
+        "reg": "VQ-BWV",
+        "status": "Departed 13:15"
+    }, {
+        "est": "13:06",
+        "flightno": "KE841",
+        "to": "Qingdao (TAO)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7551",
+        "status": "Departed 13:25"
+    }, {
+        "est": "13:07",
+        "flightno": "CA140",
+        "to": "Hangzhou (HGH)",
+        "carrior": "Air China",
+        "type": "A321",
+        "reg": "B-6942",
+        "status": "Departed 13:27"
+    }, {
+        "est": "13:08",
+        "flightno": "CA124",
+        "to": "Beijing (PEK)",
+        "carrior": "Air China",
+        "type": "A333",
+        "reg": "B-5947",
+        "status": "Departed 14:19"
+    }, {
+        "est": "13:10",
+        "flightno": "CF216",
+        "to": "Jinan (TNA)",
+        "carrior": "China Postal Airlines",
+        "type": "73F",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "13:11",
+        "flightno": "KE847",
+        "to": "Jinan (TNA)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8273",
+        "status": "Departed 13:47"
+    }, {
+        "est": "13:12",
+        "flightno": "SU251",
+        "to": "Moscow (SVO)",
+        "carrior": "Aeroflot",
+        "type": "B77W",
+        "reg": "VP-BGC",
+        "status": "Departed 13:20"
+    }, {
+        "est": "13:15",
+        "flightno": "MU2034",
+        "to": "Qingdao (TAO)",
+        "carrior": "China Eastern Airlines",
+        "type": "A321",
+        "reg": "B-1640",
+        "status": "Departed 13:54"
+    }, {
+        "est": "13:20",
+        "flightno": "OZ164",
+        "to": "Yonago (YGJ)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8280",
+        "status": "Departed 13:24"
+    }, {
+        "est": "13:21",
+        "flightno": "TW251",
+        "to": "Sapporo (CTS)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8232",
+        "status": "Departed 13:33"
+    }, {
+        "est": "13:22",
+        "flightno": "CZ688",
+        "to": "Changchun (CGQ)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-9960",
+        "status": "Departed 13:37"
+    }, {
+        "est": "13:23",
+        "flightno": "KE901",
+        "to": "Paris (CDG)",
+        "carrior": "Korean Air",
+        "type": "A388",
+        "reg": "HL7621",
+        "status": "Departed 13:42"
+    }, {
+        "est": "13:25",
+        "flightno": "KE695",
+        "to": "Kathmandu (KTM)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7752",
+        "status": "Departed 13:40"
+    }, {
+        "est": "13:30",
+        "flightno": "7C1802",
+        "to": "Naha (OKA)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8263",
+        "status": "Departed 13:49"
+    }, {
+        "est": "13:31",
+        "flightno": "Q11802",
+        "to": "Naha (OKA)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "13:32",
+        "flightno": "KE905",
+        "to": "Frankfurt (FRA)",
+        "carrior": "Korean Air",
+        "type": "B748",
+        "reg": "HL7636",
+        "status": "Departed 14:11"
+    }, {
+        "est": "13:33",
+        "flightno": "KE551",
+        "to": "Tokyo (NRT)",
+        "carrior": "Korean Air",
+        "type": "B748",
+        "reg": "HL7623",
+        "status": "Departed 13:30"
+    }, {
+        "est": "13:35",
+        "flightno": "KE923",
+        "to": "Moscow (SVO)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL8026",
+        "status": "Departed 13:51"
+    }, {
+        "est": "13:36",
+        "flightno": "CX439",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Cathay Pacific",
+        "type": "333",
+        "reg": "Canceled",
+        "status": ""
+    }, {
+        "est": "13:40",
+        "flightno": "KE601",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Korean Air",
+        "type": "B744",
+        "reg": "HL7495",
+        "status": "Departed 14:09"
+    }, {
+        "est": "13:45",
+        "flightno": "KE907",
+        "to": "London (LHR)",
+        "carrior": "Korean Air",
+        "type": "A388",
+        "reg": "HL7612",
+        "status": "Departed 14:06"
+    }, {
+        "est": "13:46",
+        "flightno": "KE951",
+        "to": "Dubai (DXB)",
+        "carrior": "Korean Air",
+        "type": "A332",
+        "reg": "HL8276",
+        "status": "Departed 14:31"
+    }, {
+        "est": "13:55",
+        "flightno": "LJ213",
+        "to": "Osaka (KIX)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7565",
+        "status": "Departed 14:05"
+    }, {
+        "est": "14:00",
+        "flightno": "ZE613",
+        "to": "Osaka (KIX)",
+        "carrior": "Eastar Jet",
+        "type": "738",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "14:01",
+        "flightno": "OZ365",
+        "to": "Shanghai (PVG)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7418",
+        "status": "Departed 14:51"
+    }, {
+        "est": "14:02",
+        "flightno": "CA128",
+        "to": "Qingdao (TAO)",
+        "carrior": "Air China",
+        "type": "A321",
+        "reg": "B-6595",
+        "status": "Departed 14:15"
+    }, {
+        "est": "14:05",
+        "flightno": "TW271",
+        "to": "Naha (OKA)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8294",
+        "status": "Departed 14:17"
+    }, {
+        "est": "14:06",
+        "flightno": "KE789",
+        "to": "Fukuoka (FUK)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL7727",
+        "status": "Departed 14:13"
+    }, {
+        "est": "14:10",
+        "flightno": "SU5497",
+        "to": "Yuzhno-Sakhalinsk (UUS)",
+        "carrior": "Aeroflot",
+        "type": "A319",
+        "reg": "VP-BUK",
+        "status": "Departed 14:45"
+    }, {
+        "est": "14:11",
+        "flightno": "KE839",
+        "to": "Weihai (WEH)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8246",
+        "status": "Departed 14:27"
+    }, {
+        "est": "14:12",
+        "flightno": "OZ114",
+        "to": "Osaka (KIX)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL7794",
+        "status": "Departed 14:36"
+    }, {
+        "est": "14:15",
+        "flightno": "MU5022",
+        "to": "Qingdao (TAO)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-6929",
+        "status": "Departed 14:43"
+    }, {
+        "est": "14:16",
+        "flightno": "MU2018",
+        "to": "Weihai (WEH)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-6008",
+        "status": "Departed 14:23"
+    }, {
+        "est": "14:20",
+        "flightno": "CA144",
+        "to": "Yanji (YNJ)",
+        "carrior": "Air China",
+        "type": "B738",
+        "reg": "B-5438",
+        "status": "Departed 14:39"
+    }, {
+        "est": "14:21",
+        "flightno": "OZ174",
+        "to": "Sapporo (CTS)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7528",
+        "status": "Departed 14:38"
+    }, {
+        "est": "14:22",
+        "flightno": "OM302",
+        "to": "Ulan Bator (ULN)",
+        "carrior": "MIAT Mongolian Airlines",
+        "type": "B763",
+        "reg": "EI-FGN",
+        "status": "Departed 14:35"
+    }, {
+        "est": "14:23",
+        "flightno": "KE643",
+        "to": "Singapore (SIN)",
+        "carrior": "Korean Air",
+        "type": "B773",
+        "reg": "HL7532",
+        "status": "Departed 14:55"
+    }, {
+        "est": "14:24",
+        "flightno": "OZ307",
+        "to": "Yantai (YNT)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8060",
+        "status": "Departed 14:53"
+    }, {
+        "est": "14:25",
+        "flightno": "OZ713",
+        "to": "Taipei (TPE)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7516",
+        "status": "Departed 14:59"
+    }, {
+        "est": "14:28",
+        "flightno": "LJ203",
+        "to": "Tokyo (NRT)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7559",
+        "status": "Departed 14:49"
+    }, {
+        "est": "14:30",
+        "flightno": "OZ333",
+        "to": "Beijing (PEK)",
+        "carrior": "Asiana Airlines",
+        "type": "333",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "14:31",
+        "flightno": "OZ521",
+        "to": "London (LHR)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL8284",
+        "status": "Departed 15:05"
+    }, {
+        "est": "14:35",
+        "flightno": "CZ6074",
+        "to": "Yanji (YNJ)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-1606",
+        "status": "Departed 14:47"
+    }, {
+        "est": "14:36",
+        "flightno": "OZ333",
+        "to": "Beijing (PEK)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL7792",
+        "status": "Departed 14:57"
+    }, {
+        "est": "14:37",
+        "flightno": "LH713",
+        "to": "Frankfurt (FRA)",
+        "carrior": "Lufthansa",
+        "type": "A388",
+        "reg": "D-AIMC",
+        "status": "Departed 16:03"
+    }, {
+        "est": "14:40",
+        "flightno": "KE833",
+        "to": "Shenyang (SHE)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7715",
+        "status": "Departed 15:12"
+    }, {
+        "est": "14:41",
+        "flightno": "OZ202",
+        "to": "Los Angeles (LAX)",
+        "carrior": "Asiana Airlines",
+        "type": "A388",
+        "reg": "HL7635",
+        "status": "Departed 15:21"
+    }, {
+        "est": "14:42",
+        "flightno": "CA440",
+        "to": "Chongqing (CKG)",
+        "carrior": "Air China",
+        "type": "B738",
+        "reg": "B-1738",
+        "status": "Departed 15:01"
+    }, {
+        "est": "14:45",
+        "flightno": "OZ319",
+        "to": "Qingdao (TAO)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8267",
+        "status": "Departed 15:15"
+    }, {
+        "est": "14:46",
+        "flightno": "KE925",
+        "to": "Amsterdam (AMS)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7710",
+        "status": "Departed 15:08"
+    }, {
+        "est": "14:50",
+        "flightno": "CF228",
+        "to": "Shijiazhuang (SJW)",
+        "carrior": "China Postal Airlines",
+        "type": "73F",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "14:51",
+        "flightno": "TW295",
+        "to": "Saga (HSG)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8000",
+        "status": "Departed 15:03"
+    }, {
+        "est": "14:55",
+        "flightno": "ZH9788",
+        "to": "Shenzhen (SZX)",
+        "carrior": "Shenzhen Airlines",
+        "type": "B738",
+        "reg": "B-1940",
+        "status": "Departed 15:06"
+    }, {
+        "est": "14:56",
+        "flightno": "CZ338",
+        "to": "Guangzhou (CAN)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-6339",
+        "status": "Departed 15:14"
+    }, {
+        "est": "14:57",
+        "flightno": "KE743",
+        "to": "Nagoya (NGO)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8221",
+        "status": "Departed 15:26"
+    }, {
+        "est": "15:00",
+        "flightno": "KE957",
+        "to": "Tel Aviv (TLV)",
+        "carrior": "Korean Air",
+        "type": "A332",
+        "reg": "HL7552",
+        "status": "Departed 15:19"
+    }, {
+        "est": "15:01",
+        "flightno": "KE17",
+        "to": "Los Angeles (LAX)",
+        "carrior": "Korean Air",
+        "type": "A388",
+        "reg": "HL7614",
+        "status": "Departed 15:30"
+    }, {
+        "est": "15:02",
+        "flightno": "OZ176",
+        "to": "Matsuyama (MYJ)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8038",
+        "status": "Departed 15:10"
+    }, {
+        "est": "15:03",
+        "flightno": "MM6",
+        "to": "Osaka (KIX)",
+        "carrior": "Peach Aviation",
+        "type": "A320",
+        "reg": "JA812P",
+        "status": "Departed 15:17"
+    }, {
+        "est": "15:04",
+        "flightno": "7C1104",
+        "to": "Tokyo (NRT)",
+        "carrior": "Jeju Air",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "15:05",
+        "flightno": "Q11104",
+        "to": "Tokyo (NRT)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "15:06",
+        "flightno": "NX819",
+        "to": "Macau (MFM)",
+        "carrior": "Air Macau",
+        "type": "A321",
+        "reg": "B-MCC",
+        "status": "Departed 15:28"
+    }, {
+        "est": "15:10",
+        "flightno": "OZ106",
+        "to": "Tokyo (NRT)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8004",
+        "status": "Departed 15:34"
+    }, {
+        "est": "15:15",
+        "flightno": "AC64",
+        "to": "Vancouver (YVR)",
+        "carrior": "Air Canada",
+        "type": "B789",
+        "reg": "C-FPQB",
+        "status": "Departed 15:35"
+    }, {
+        "est": "15:20",
+        "flightno": "KE627",
+        "to": "Jakarta (CGK)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8209",
+        "status": "Departed 15:55"
+    }, {
+        "est": "15:21",
+        "flightno": "KE725",
+        "to": "Osaka (KIX)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL7784",
+        "status": "Departed 15:37"
+    }, {
+        "est": "15:30",
+        "flightno": "Q11404",
+        "to": "Fukuoka (FUK)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "15:31",
+        "flightno": "7C1404",
+        "to": "Fukuoka (FUK)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8049",
+        "status": "Departed 15:39"
+    }, {
+        "est": "15:32",
+        "flightno": "KE917",
+        "to": "Zurich (ZRH)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7531",
+        "status": "Departed 15:43"
+    }, {
+        "est": "15:33",
+        "flightno": "SC4082",
+        "to": "Qingdao (TAO)",
+        "carrior": "Shandong Airlines",
+        "type": "B738",
+        "reg": "B-1982",
+        "status": "Departed 15:53"
+    }, {
+        "est": "15:34",
+        "flightno": "ZE603",
+        "to": "Tokyo (NRT)",
+        "carrior": "Eastar Jet",
+        "type": "B738",
+        "reg": "HL8292",
+        "status": "Departed 15:41"
+    }, {
+        "est": "15:35",
+        "flightno": "7C8503",
+        "to": "Weihai (WEH)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8051",
+        "status": "Departed 15:50"
+    }, {
+        "est": "15:36",
+        "flightno": "Q18503",
+        "to": "Weihai (WEH)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "15:37",
+        "flightno": "CZ6018",
+        "to": "Urumqi (URC)",
+        "carrior": "China Southern Airlines",
+        "type": "B737",
+        "reg": "B-5250",
+        "status": "Departed 15:46"
+    }, {
+        "est": "15:40",
+        "flightno": "KE735",
+        "to": "Naha (OKA)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8240",
+        "status": "Departed 16:02"
+    }, {
+        "est": "15:45",
+        "flightno": "KE941",
+        "to": "Tashkent (TAS)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL8027",
+        "status": "eparted 16:11"
+    }, {
+        "est": "15:50",
+        "flightno": "QR8981",
+        "to": "Doha (DOH)",
+        "carrior": "Qatar Airways",
+        "type": "B77L",
+        "reg": "A7-BFE",
+        "status": "Departed 16:07"
+    }, {
+        "est": "15:55",
+        "flightno": "MU268",
+        "to": "Yantai (YNT)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-9901",
+        "status": "Departed 19:23"
+    }, {
+        "est": "16:05",
+        "flightno": "OZ3395",
+        "to": "Qiqihar (NDG)",
+        "carrior": "Asiana Airlines",
+        "type": "A320",
+        "reg": "HL7738",
+        "status": "Departed 16:18"
+    }, {
+        "est": "16:06",
+        "flightno": "MM906",
+        "to": "Naha (OKA)",
+        "carrior": "Peach Aviation",
+        "type": "A320",
+        "reg": "JA817P",
+        "status": "Departed 16:13"
+    }, {
+        "est": "16:10",
+        "flightno": "OZ166",
+        "to": "Takamatsu (TAK)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8278",
+        "status": "Departed 16:15"
+    }, {
+        "est": "16:11",
+        "flightno": "OZ751",
+        "to": "Singapore (SIN)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL8286",
+        "status": "Departed 16:39"
+    }, {
+        "est": "16:20",
+        "flightno": "OZ3035",
+        "to": "Changchun (CGQ)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL8293",
+        "status": "Departed 16:27"
+    }, {
+        "est": "16:22",
+        "flightno": "MU5034",
+        "to": "Shanghai (PVG)",
+        "carrior": "China Eastern Airlines",
+        "type": "B77W",
+        "reg": "B-7347",
+        "status": "Departed 17:16"
+    }, {
+        "est": "16:25",
+        "flightno": "OZ124",
+        "to": "Nagoya (NGO)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL7731",
+        "status": "Departed 16:30"
+    }, {
+        "est": "16:26",
+        "flightno": "D7505",
+        "to": "Kuala Lumpur (KUL)",
+        "carrior": "AirAsia X",
+        "type": "A333",
+        "reg": "9M-XXE",
+        "status": "Departed 16:52"
+    }, {
+        "est": "16:27",
+        "flightno": "CZ3062",
+        "to": "Guangzhou (CAN)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-6683",
+        "status": "Departed 16:41"
+    }, {
+        "est": "16:30",
+        "flightno": "OZ212",
+        "to": "San Francisco (SFO)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL7755",
+        "status": "Departed 16:48"
+    }, {
+        "est": "16:31",
+        "flightno": "KE693",
+        "to": "Taipei (TPE)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7721",
+        "status": "Departed 16:44"
+    }, {
+        "est": "16:35",
+        "flightno": "KE671",
+        "to": "Kuala Lumpur (KUL)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7530",
+        "status": "Departed 17:03"
+    }, {
+        "est": "16:40",
+        "flightno": "UA892",
+        "to": "San Francisco (SFO)",
+        "carrior": "United Airlines",
+        "type": "B744",
+        "reg": "N180UA",
+        "status": "Departed 16:50"
+    }, {
+        "est": "16:41",
+        "flightno": "MU560",
+        "to": "Qingdao (TAO)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-6586",
+        "status": "Departed 17:41"
+    }, {
+        "est": "16:42",
+        "flightno": "CZ3066",
+        "to": "Changsha (CSX)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-6625",
+        "status": "Departed 17:22"
+    }, {
+        "est": "16:43",
+        "flightno": "SQ609",
+        "to": "Singapore (SIN)",
+        "carrior": "Singapore Airlines",
+        "type": "A333",
+        "reg": "9V-SSA",
+        "status": "Departed 17:00"
+    }, {
+        "est": "16:45",
+        "flightno": "SC4722",
+        "to": "Qingdao (TAO)",
+        "carrior": "Shandong Airlines",
+        "type": "B738",
+        "reg": "B-5513",
+        "status": "Departed 16:58"
+    }, {
+        "est": "16:50",
+        "flightno": "OZ573",
+        "to": "Tashkent (TAS)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7515",
+        "status": "Departed 17:53"
+    }, {
+        "est": "16:55",
+        "flightno": "9C8560",
+        "to": "Shanghai (PVG)",
+        "carrior": "Spring Airlines",
+        "type": "A320",
+        "reg": "B-6972",
+        "status": "Departed 16:55"
+    }, {
+        "est": "16:56",
+        "flightno": "Z239",
+        "to": "Kalibo (KLO)",
+        "carrior": "Philippines AirAsia",
+        "type": "A320",
+        "reg": "RP-C8986",
+        "status": "Departed 17:10"
+    }, {
+        "est": "16:57",
+        "flightno": "LJ225",
+        "to": "Fukuoka (FUK)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7562",
+        "status": "Departed 17:05"
+    }, {
+        "est": "17:00",
+        "flightno": "7C1306",
+        "to": "Osaka (KIX)",
+        "carrior": "Jeju Air ",
+        "type": "B738",
+        "reg": "HL8261",
+        "status": "Departed 17:14"
+    }, {
+        "est": "17:01",
+        "flightno": "Q11306",
+        "to": "Osaka (KIX)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "17:15",
+        "flightno": "OZ761",
+        "to": "Jakarta (CGK)",
+        "carrior": "Asiana Airlines",
+        "type": "A332",
+        "reg": "HL7746",
+        "status": "Departed 18:44"
+    }, {
+        "est": "17:16",
+        "flightno": "KE1405",
+        "to": "Busan (PUS)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL7569",
+        "status": "Departed 17:43"
+    }, {
+        "est": "17:17",
+        "flightno": "AA280",
+        "to": "Dallas (DFW)",
+        "carrior": "American Airlines",
+        "type": "B772",
+        "reg": "N792AN",
+        "status": "Departed 17:19"
+    }, {
+        "est": "17:25",
+        "flightno": "CZ696",
+        "to": "Dalian (DLC)",
+        "carrior": "China Southern Airlines",
+        "type": "319",
+        "reg": "Departed 17:33",
+        "status": ""
+    }, {
+        "est": "17:30",
+        "flightno": "ZE511",
+        "to": "Bangkok (BKK)",
+        "carrior": "Eastar Jet",
+        "type": "B738",
+        "reg": "HL8035",
+        "status": "Departed 17:45"
+    }, {
+        "est": "17:31",
+        "flightno": "TG635",
+        "to": "Taipei (TPE)",
+        "carrior": "Thai Airways",
+        "type": "A333",
+        "reg": "HS-TBF",
+        "status": "Departed 17:39"
+    }, {
+        "est": "17:32",
+        "flightno": "KE23",
+        "to": "San Francisco (SFO)",
+        "carrior": "Korean Air",
+        "type": "B748",
+        "reg": "HL7631",
+        "status": "Departed 17:57"
+    }, {
+        "est": "17:40",
+        "flightno": "KE651",
+        "to": "Bangkok (BKK)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL7782",
+        "status": "Departed 18:01"
+    }, {
+        "est": "17:41",
+        "flightno": "CA802",
+        "to": "Tianjin (TSN)",
+        "carrior": "Air China",
+        "type": "B738",
+        "reg": "B-1528",
+        "status": "Departed 17:59"
+    }, {
+        "est": "17:42",
+        "flightno": "KE1",
+        "to": "Tokyo (NRT)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7585",
+        "status": "Departed 17:55"
+    }, {
+        "est": "17:45",
+        "flightno": "TW121",
+        "to": "Ho Chi Minh ",
+        "carrior": "City (SGN)",
+        "type": "T'way Air",
+        "reg": "B738",
+        "status": "HL8069"
+    }, {
+        "est": "17:50",
+        "flightno": "CA126",
+        "to": "Beijing (PEK)",
+        "carrior": "Air China",
+        "type": "A333",
+        "reg": "B-5946",
+        "status": "Departed 18:09"
+    }, {
+        "est": "17:51",
+        "flightno": "SQ16",
+        "to": "San Francisco (SFO)",
+        "carrior": "Singapore Airlines",
+        "type": "B77W",
+        "reg": "9V-SWO",
+        "status": "Departed 18:14"
+    }, {
+        "est": "17:55",
+        "flightno": "VN405",
+        "to": "Ho Chi Minh City (SGN)",
+        "carrior": "Vietnam Airlines",
+        "type": "A321",
+        "reg": "VN-A357",
+        "status": "Departed 18:08"
+    }, {
+        "est": "17:56",
+        "flightno": "LJ61",
+        "to": "Kota Kinabalu (BKI)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL8012",
+        "status": "Departed 18:04"
+    }, {
+        "est": "17:57",
+        "flightno": "KE929",
+        "to": "St. Petersburg (LED)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7586",
+        "status": "Departed 18:12"
+    }, {
+        "est": "17:58",
+        "flightno": "OZ136",
+        "to": "Fukuoka (FUK)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL7736",
+        "status": "Departed 18:27"
+    }, {
+        "est": "18:00",
+        "flightno": "AC62",
+        "to": "Toronto (YYZ)",
+        "carrior": "Air Canada",
+        "type": "B789",
+        "reg": "C-FNOI",
+        "status": "Departed 18:34"
+    }, {
+        "est": "18:05",
+        "flightno": "VN415",
+        "to": "Hanoi (HAN)",
+        "carrior": "Vietnam Airlines",
+        "type": "A359",
+        "reg": "VN-A887",
+        "status": "Departed 18:21"
+    }, {
+        "est": "18:11",
+        "flightno": "SU5435",
+        "to": "Vladivostok (VVO)",
+        "carrior": "Aeroflot",
+        "type": "A319",
+        "reg": "VP-BUO",
+        "status": "Departed 18:31"
+    }, {
+        "est": "18:12",
+        "flightno": "OZ577",
+        "to": "Almaty (ALA)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL8282",
+        "status": "Departed 18:38"
+    }, {
+        "est": "18:13",
+        "flightno": "KE629",
+        "to": "Denpasar (DPS)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7587",
+        "status": "Departed 18:25"
+    }, {
+        "est": "18:20",
+        "flightno": "KE19",
+        "to": "Seattle (SEA)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8008",
+        "status": "Departed 18:59"
+    }, {
+        "est": "18:21",
+        "flightno": "KE683",
+        "to": "Ho Chi Minh City (SGN)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL8003",
+        "status": "Departed 19:16"
+    }, {
+        "est": "18:25",
+        "flightno": "TW301",
+        "to": "Guam (GUM)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8024",
+        "status": "Departed 18:42"
+    }, {
+        "est": "18:26",
+        "flightno": "TW293",
+        "to": "Fukuoka (FUK)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8253",
+        "status": "Departed 18:40"
+    }, {
+        "est": "18:27",
+        "flightno": "LJ51",
+        "to": "Vientiane (VTE)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL8016",
+        "status": "Departed 18:47"
+    }, {
+        "est": "18:28",
+        "flightno": "FM828",
+        "to": "Shanghai (PVG)",
+        "carrior": "Shanghai Airlines",
+        "type": "B738",
+        "reg": "B-1949",
+        "status": "Departed 19:21"
+    }, {
+        "est": "18:29",
+        "flightno": "DL198",
+        "to": "Seattle (SEA)",
+        "carrior": "Delta Air Lines",
+        "type": "B763",
+        "reg": "N1604R",
+        "status": "Departed 18:32"
+    }, {
+        "est": "18:30",
+        "flightno": "KE1403",
+        "to": "Busan (PUS)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8243",
+        "status": "Departed 18:46"
+    }, {
+        "est": "18:31",
+        "flightno": "CX411",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Cathay Pacific",
+        "type": "B773",
+        "reg": "B-HNK",
+        "status": "Departed 18:41"
+    }, {
+        "est": "18:32",
+        "flightno": "OZ741",
+        "to": "Bangkok (BKK)",
+        "carrior": "Asiana Airlines",
+        "type": "A388",
+        "reg": "HL7626",
+        "status": "Departed 20:45"
+    }, {
+        "est": "18:35",
+        "flightno": "KE705",
+        "to": "Tokyo (NRT)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8275",
+        "status": "Departed 18:48"
+    }, {
+        "est": "18:36",
+        "flightno": "KE781",
+        "to": "Fukuoka (FUK)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7526",
+        "status": "Departed 18:57"
+    }, {
+        "est": "18:37",
+        "flightno": "KE763",
+        "to": "Niigata (KIJ)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8223",
+        "status": "Departed 18:50"
+    }, {
+        "est": "18:40",
+        "flightno": "OZ272",
+        "to": "Seattle (SEA)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL7756",
+        "status": "Departed 19:01"
+    }, {
+        "est": "18:41",
+        "flightno": "KE641",
+        "to": "Singapore (SIN)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8011",
+        "status": "Departed 19:06"
+    }, {
+        "est": "18:42",
+        "flightno": "KE463",
+        "to": "Da Nang (DAD)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7551",
+        "status": "Departed 19:19"
+    }, {
+        "est": "18:43",
+        "flightno": "KE747",
+        "to": "Okayama (OKJ)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8248",
+        "status": "Departed 18:55"
+    }, {
+        "est": "18:45",
+        "flightno": "KE121",
+        "to": "Sydney (SYD)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL8001",
+        "status": "Departed 19:12"
+    }, {
+        "est": "18:46",
+        "flightno": "KE689",
+        "to": "Phnom Penh (PNH)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8247",
+        "status": "Departed 19:12"
+    }, {
+        "est": "18:47",
+        "flightno": "KE679",
+        "to": "Hanoi (HAN)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL8025",
+        "status": "Departed 19:25"
+    }, {
+        "est": "18:48",
+        "flightno": "KE471",
+        "to": "Yangon (RGN)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8246",
+        "status": "Departed 19:09"
+    }, {
+        "est": "18:50",
+        "flightno": "KE71",
+        "to": "Vancouver (YVR)",
+        "carrior": "Korean Air",
+        "type": "B748",
+        "reg": "HL7638",
+        "status": "Departed 19:28"
+    }, {
+        "est": "18:51",
+        "flightno": "OZ108",
+        "to": "Tokyo (NRT)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8060",
+        "status": "Departed 19:23"
+    }, {
+        "est": "19:00",
+        "flightno": "OZ755",
+        "to": "Da Nang (DAD)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8256",
+        "status": "Departed 20:05"
+    }, {
+        "est": "19:01",
+        "flightno": "KE853",
+        "to": "Beijing (PEK)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8009",
+        "status": "Departed 19:39"
+    }, {
+        "est": "19:02",
+        "flightno": "KE637",
+        "to": "Phuket (HKT)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7553",
+        "status": "Departed 19:34"
+    }, {
+        "est": "19:05",
+        "flightno": "KE751",
+        "to": "Nagoya (NGO)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL7783",
+        "status": "Departed 19:13"
+    }, {
+        "est": "19:06",
+        "flightno": "KE895",
+        "to": "Shanghai (PVG)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7574",
+        "status": "Departed 19:31"
+    }, {
+        "est": "19:07",
+        "flightno": "OZ8989",
+        "to": "Jeju (CJU)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8266",
+        "status": "Departed 19:28"
+    }, {
+        "est": "19:10",
+        "flightno": "OZ116",
+        "to": "Osaka (KIX)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8280",
+        "status": "Departed 19:22"
+    }, {
+        "est": "19:11",
+        "flightno": "OZ735",
+        "to": "Ho Chi Minh City (SGN)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL7597",
+        "status": "Departed 19:59"
+    }, {
+        "est": "19:15",
+        "flightno": "ZE531",
+        "to": "Phuket (HKT)",
+        "carrior": "Eastar Jet",
+        "type": "B738",
+        "reg": "HL8057",
+        "status": "Departed 19:37"
+    }, {
+        "est": "19:16",
+        "flightno": "OZ7553",
+        "to": "Da Nang (DAD)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8059",
+        "status": "Departed 19:50"
+    }, {
+        "est": "19:17",
+        "flightno": "KE721",
+        "to": "Osaka (KIX)",
+        "carrior": "Korean Air",
+        "type": "B772",
+        "reg": "HL7714",
+        "status": "Departed 19:25"
+    }, {
+        "est": "19:18",
+        "flightno": "KE659",
+        "to": "Bangkok (BKK)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7554",
+        "status": "Departed 19:41"
+    }, {
+        "est": "19:20",
+        "flightno": "KE883",
+        "to": "Urumqi (URC)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8273",
+        "status": "Departed 19:43"
+    }, {
+        "est": "19:21",
+        "flightno": "OZ733",
+        "to": "Hanoi (HAN)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7421",
+        "status": "Departed 19:45"
+    }, {
+        "est": "19:22",
+        "flightno": "OZ739",
+        "to": "Phnom Penh (PNH)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8018",
+        "status": "Departed 19:53"
+    }, {
+        "est": "19:25",
+        "flightno": "LJ21",
+        "to": "Cebu (CEB)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL8015",
+        "status": "Departed 19:56"
+    }, {
+        "est": "19:26",
+        "flightno": "KE137",
+        "to": "Nadi (NAN)",
+        "carrior": "Korean Air",
+        "type": "A332",
+        "reg": "HL8212",
+        "status": "Departed 19:41"
+    }, {
+        "est": "19:30",
+        "flightno": "ZE501",
+        "to": "Kota Kinabalu (BKI)",
+        "carrior": "Eastar Jet",
+        "type": "B738",
+        "reg": "HL8053",
+        "status": "Departed 19:48"
+    }, {
+        "est": "19:31",
+        "flightno": "KE111",
+        "to": "Guam (GUM)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8216",
+        "status": "Departed 19:39"
+    }, {
+        "est": "19:32",
+        "flightno": "KE85",
+        "to": "New York (JFK)",
+        "carrior": "Korean Air",
+        "type": "B748",
+        "reg": "HL7632",
+        "status": "Departed 20:08"
+    }, {
+        "est": "19:33",
+        "flightno": "KE1411",
+        "to": "Daegu (TAE)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8272",
+        "status": "Departed 20:03"
+    }, {
+        "est": "19:35",
+        "flightno": "7C2305",
+        "to": "Manila (MNL)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8020",
+        "status": "Departed 20:30"
+    }, {
+        "est": "19:37",
+        "flightno": "Q12305",
+        "to": "Manila (MNL)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "19:38",
+        "flightno": "KE685",
+        "to": "Ho Chi Minh City (SGN)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8242",
+        "status": "Departed 20:27"
+    }, {
+        "est": "19:40",
+        "flightno": "SQ15",
+        "to": "Singapore (SIN)",
+        "carrior": "Singapore Airlines",
+        "type": "B77W",
+        "reg": "9V-SWK",
+        "status": "Departed 20:08"
+    }, {
+        "est": "19:42",
+        "flightno": "KE1407",
+        "to": "Busan (PUS)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL7727",
+        "status": "Departed 19:57"
+    }, {
+        "est": "19:45",
+        "flightno": "KE607",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8010",
+        "status": "Departed 20:53"
+    }, {
+        "est": "19:47",
+        "flightno": "BR159",
+        "to": "Taipei (TPE)",
+        "carrior": "EVA Air",
+        "type": "A333",
+        "reg": "B-16333",
+        "status": "Departed 20:11"
+    }, {
+        "est": "19:50",
+        "flightno": "OZ757",
+        "to": "Kota Kinabalu (BKI)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8038",
+        "status": "Departed 20:17"
+    }, {
+        "est": "19:51",
+        "flightno": "OZ703",
+        "to": "Manila (MNL)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL7740",
+        "status": "Departed 20:24"
+    }, {
+        "est": "19:52",
+        "flightno": "OZ745",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL7791",
+        "status": "Departed 20:14"
+    }, {
+        "est": "19:53",
+        "flightno": "OZ747",
+        "to": "Phuket (HKT)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL7795",
+        "status": "Departed 20:03"
+    }, {
+        "est": "19:55",
+        "flightno": "KE867",
+        "to": "Ulan Bator (ULN)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL8002",
+        "status": "Departed 20:35"
+    }, {
+        "est": "19:56",
+        "flightno": "CZ684",
+        "to": "Harbin (HRB)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-1806",
+        "status": "Departed 21:22"
+    }, {
+        "est": "19:57",
+        "flightno": "LJ1",
+        "to": "Bangkok (BKK)",
+        "carrior": "Jin Air",
+        "type": "B772",
+        "reg": "HL7733",
+        "status": "Departed 20:37"
+    }, {
+        "est": "20:00",
+        "flightno": "KE11",
+        "to": "Los Angeles (LAX)",
+        "carrior": "Korean Air",
+        "type": "A388",
+        "reg": "HL7613",
+        "status": "Departed 20:28"
+    }, {
+        "est": "20:01",
+        "flightno": "CF202",
+        "to": "Xi'an (XIY)",
+        "carrior": "China Postal Airlines",
+        "type": "73F",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "20:02",
+        "flightno": "OZ367",
+        "to": "Shanghai (PVG)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL8258",
+        "status": "Departed 20:20"
+    }, {
+        "est": "20:05",
+        "flightno": "Q12203",
+        "to": "Bangkok (BKK)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "20:06",
+        "flightno": "KE623",
+        "to": "Manila (MNL)",
+        "carrior": "Korean Air",
+        "type": "B773",
+        "reg": "HL7533",
+        "status": "Departed 20:33"
+    }, {
+        "est": "20:07",
+        "flightno": "7C2203",
+        "to": "Bangkok (BKK)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8049",
+        "status": "Departed 20:39"
+    }, {
+        "est": "20:10",
+        "flightno": "OZ749",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL8254",
+        "status": "Departed 20:57"
+    }, {
+        "est": "20:15",
+        "flightno": "CX419",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Cathay Pacific",
+        "type": "B773",
+        "reg": "B-HNJ",
+        "status": "Departed 21:00"
+    }, {
+        "est": "20:20",
+        "flightno": "OZ204",
+        "to": "Los Angeles (LAX)",
+        "carrior": "Asiana Airlines",
+        "type": "B772",
+        "reg": "HL7739",
+        "status": "Departed 20:40"
+    }, {
+        "est": "20:21",
+        "flightno": "7C3106",
+        "to": "Guam (GUM)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8263",
+        "status": "Departed 20:43"
+    }, {
+        "est": "20:22",
+        "flightno": "OZ709",
+        "to": "Cebu (CEB)",
+        "carrior": "Asiana Airlines",
+        "type": "A333",
+        "reg": "HL7794",
+        "status": "Departed 20:43"
+    }, {
+        "est": "20:23",
+        "flightno": "Q13106",
+        "to": "Guam (GUM)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "20:25",
+        "flightno": "TW101",
+        "to": "Bangkok (BKK)",
+        "carrior": "T'way Air",
+        "type": "B738",
+        "reg": "HL8000",
+        "status": "Departed 21:06"
+    }, {
+        "est": "20:35",
+        "flightno": "PR469",
+        "to": "Manila (MNL)",
+        "carrior": "Philippine Airlines",
+        "type": "A333",
+        "reg": "RP-C8765",
+        "status": "Departed 21:28"
+    }, {
+        "est": "20:36",
+        "flightno": "CI163",
+        "to": "Taipei (TPE)",
+        "carrior": "China Airlines",
+        "type": "B738",
+        "reg": "B-18615",
+        "status": "Departed 21:11"
+    }, {
+        "est": "20:37",
+        "flightno": "KE631",
+        "to": "Cebu (CEB)",
+        "carrior": "Korean Air",
+        "type": "A333",
+        "reg": "HL7720",
+        "status": "Departed 21:15"
+    }, {
+        "est": "20:40",
+        "flightno": "7C2205",
+        "to": "Bangkok (BKK)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8051",
+        "status": "Departed 21:20"
+    }, {
+        "est": "20:41",
+        "flightno": "Q12205",
+        "to": "Bangkok (BKK)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "20:42",
+        "flightno": "MM10",
+        "to": "Osaka (KIX)",
+        "carrior": "Peach Aviation",
+        "type": "A320",
+        "reg": "JA806P",
+        "status": "Departed 20:59"
+    }, {
+        "est": "20:43",
+        "flightno": "CZ6010",
+        "to": "Zhengzhou (CGO)",
+        "carrior": "China Southern Airlines",
+        "type": "B738",
+        "reg": "B-5715",
+        "status": "Departed 21:40"
+    }, {
+        "est": "20:44",
+        "flightno": "OZ767",
+        "to": "Delhi (DEL)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7248",
+        "status": "Departed 21:17"
+    }, {
+        "est": "20:45",
+        "flightno": "CZ672",
+        "to": "Shenyang (SHE)",
+        "carrior": "China Southern Airlines",
+        "type": "321",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "20:47",
+        "flightno": "KE719",
+        "to": "Tokyo (HND)",
+        "carrior": "Korean Air",
+        "type": "B739",
+        "reg": "HL8221",
+        "status": "Departed 20:57"
+    }, {
+        "est": "20:50",
+        "flightno": "BR171",
+        "to": "Kaohsiung (KHH)",
+        "carrior": "EVA Air",
+        "type": "A321",
+        "reg": "B-16213",
+        "status": "Departed 21:09"
+    }, {
+        "est": "20:52",
+        "flightno": "LJ59",
+        "to": "Da Nang (DAD)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7563",
+        "status": "Departed 21:25"
+    }, {
+        "est": "20:55",
+        "flightno": "Z29047",
+        "to": "Cebu (CEB)",
+        "carrior": "Philippines AirAsia",
+        "type": "A320",
+        "reg": "RP-C8971",
+        "status": "Departed 23:34"
+    }, {
+        "est": "20:56",
+        "flightno": "MF872",
+        "to": "Xiamen (XMN)",
+        "carrior": "Xiamen Airlines",
+        "type": "B738",
+        "reg": "B-1749",
+        "status": "Departed 22:05"
+    }, {
+        "est": "20:59",
+        "flightno": "3U8904",
+        "to": "Chengdu (CTU)",
+        "carrior": "Sichuan Airlines",
+        "type": "A332",
+        "reg": "B-6518",
+        "status": "Departed 23:50"
+    }, {
+        "est": "21:00",
+        "flightno": "OZ707",
+        "to": "Angeles City (CRK)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8265",
+        "status": "Departed 21:34"
+    }, {
+        "est": "21:01",
+        "flightno": "CF208",
+        "to": "Tianjin (TSN)",
+        "carrior": "China Postal Airlines",
+        "type": "73F",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "21:02",
+        "flightno": "KE53",
+        "to": "Honolulu (HNL)",
+        "carrior": "Korean Air",
+        "type": "B77W",
+        "reg": "HL8250",
+        "status": "Departed 21:36"
+    }, {
+        "est": "21:03",
+        "flightno": "ET609",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Ethiopian Airlines",
+        "type": "B788",
+        "reg": "ET-ASH",
+        "status": "Departed 22:54"
+    }, {
+        "est": "21:05",
+        "flightno": "CZ370",
+        "to": "Shanghai (PVG)",
+        "carrior": "China Southern Airlines",
+        "type": "A320",
+        "reg": "B-6620",
+        "status": "Departed 21:58"
+    }, {
+        "est": "21:10",
+        "flightno": "Q12803",
+        "to": "Hanoi (HAN)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "21:11",
+        "flightno": "ZH9036",
+        "to": "Shenzhen (SZX)",
+        "carrior": "Shenzhen Airlines",
+        "type": "B738",
+        "reg": "B-5736",
+        "status": "Departed 21:38"
+    }, {
+        "est": "21:12",
+        "flightno": "LJ23",
+        "to": "Angeles City (CRK)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7565",
+        "status": "Departed 21:42"
+    }, {
+        "est": "21:13",
+        "flightno": "7C2803",
+        "to": "Hanoi (HAN)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8296",
+        "status": "Departed 21:46"
+    }, {
+        "est": "21:15",
+        "flightno": "ZE521",
+        "to": "Siem Reap (REP)",
+        "carrior": "Eastar Jet",
+        "type": "B738",
+        "reg": "HL8057",
+        "status": "Unknown"
+    }, {
+        "est": "21:16",
+        "flightno": "OZ357",
+        "to": "Guangzhou (CAN)",
+        "carrior": "Asiana Airlines",
+        "type": "A321",
+        "reg": "HL8039",
+        "status": "Departed 21:49"
+    }, {
+        "est": "21:20",
+        "flightno": "TG657",
+        "to": "Bangkok (BKK)",
+        "carrior": "Thai Airways",
+        "type": "A333",
+        "reg": "HS-TBG",
+        "status": "Departed 22:12"
+    }, {
+        "est": "21:21",
+        "flightno": "Q12903",
+        "to": "Da Nang (DAD)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "21:22",
+        "flightno": "7C2903",
+        "to": "Da Nang (DAD)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8050",
+        "status": "Departed 21:55"
+    }, {
+        "est": "21:25",
+        "flightno": "ZE531",
+        "to": "Phuket (HKT)",
+        "carrior": "Eastar Jet",
+        "type": "738",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "21:30",
+        "flightno": "OZ323",
+        "to": "Chengdu (CTU)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7516",
+        "status": "Departed 22:21"
+    }, {
+        "est": "21:31",
+        "flightno": "OZ969",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7618",
+        "status": "Departed 21:52"
+    }, {
+        "est": "21:35",
+        "flightno": "SC4778",
+        "to": "Qingdao (TAO)",
+        "carrior": "Shandong Airlines",
+        "type": "B738",
+        "reg": "B-5513",
+        "status": "Departed 22:01"
+    }, {
+        "est": "21:36",
+        "flightno": "5J189",
+        "to": "Manila (MNL)",
+        "carrior": "CEBU Pacific Air",
+        "type": "A320",
+        "reg": "RP-C3276",
+        "status": "Departed 22:02"
+    }, {
+        "est": "21:40",
+        "flightno": "7C2107",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8239",
+        "status": "Departed 22:46"
+    }, {
+        "est": "21:41",
+        "flightno": "PO751",
+        "to": "Shenzhen (SZX)",
+        "carrior": "Polar Air Cargo",
+        "type": "B744",
+        "reg": "N453PA",
+        "status": "Departed 22:08"
+    }, {
+        "est": "21:42",
+        "flightno": "Q12107",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "21:45",
+        "flightno": "LJ121",
+        "to": "Macau (MFM)",
+        "carrior": "Jin Air",
+        "type": "B738",
+        "reg": "HL7562",
+        "status": "Departed 22:23"
+    }, {
+        "est": "21:50",
+        "flightno": "MU2024",
+        "to": "Changsha (CSX)",
+        "carrior": "China Eastern Airlines",
+        "type": "A333",
+        "reg": "B-5953",
+        "status": "Departed 22:30"
+    }, {
+        "est": "21:51",
+        "flightno": "LD129",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Air Hong Kong",
+        "type": "A306",
+        "reg": "B-LDB",
+        "status": "Departed 22:16"
+    }, {
+        "est": "21:55",
+        "flightno": "5X99",
+        "to": "Anchorage (ANC)",
+        "carrior": "UPS Airlines",
+        "type": "MD11",
+        "reg": "N287UP",
+        "status": "Departed 22:27"
+    }, {
+        "est": "21:57",
+        "flightno": "CZ676",
+        "to": "Dalian (DLC)",
+        "carrior": "China Southern Airlines",
+        "type": "A321",
+        "reg": "B-6273",
+        "status": "Departed 22:50"
+    }, {
+        "est": "22:00",
+        "flightno": "KE9365",
+        "to": "Manila (MNL)",
+        "carrior": "Korean Air",
+        "type": "B744",
+        "reg": "HL7462",
+        "status": "Departed 22:40"
+    }, {
+        "est": "22:01",
+        "flightno": "PO214",
+        "to": "Nagoya (NGO)",
+        "carrior": "Polar Air Cargo",
+        "type": "B748",
+        "reg": "N856GT",
+        "status": "Departed 23:16"
+    }, {
+        "est": "22:02",
+        "flightno": "7C2405",
+        "to": "Cebu (CEB)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8033",
+        "status": "Departed 23:06"
+    }, {
+        "est": "22:03",
+        "flightno": "Q12405",
+        "to": "Cebu (CEB)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "22:05",
+        "flightno": "OZ196",
+        "to": "Nagoya (NGO)",
+        "carrior": "Asiana Airlines",
+        "type": "B763",
+        "reg": "HL7507",
+        "status": "Departed 22:10"
+    }, {
+        "est": "22:06",
+        "flightno": "SC4708",
+        "to": "Yantai (YNT)",
+        "carrior": "Shandong Airlines",
+        "type": "B738",
+        "reg": "B-5537",
+        "status": "Departed 22:14"
+    }, {
+        "est": "22:07",
+        "flightno": "KE251",
+        "to": "Anchorage (ANC)",
+        "carrior": "Korean Air",
+        "type": "B744",
+        "reg": "HL7601",
+        "status": "Departed 22:32"
+    }, {
+        "est": "22:10",
+        "flightno": "Q13404",
+        "to": "Saipan (SPN)",
+        "carrior": "Q1",
+        "type": "737",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "22:11",
+        "flightno": "9C8790",
+        "to": "Shijiazhuang (SJW)",
+        "carrior": "Spring Airlines",
+        "type": "A320",
+        "reg": "B-1893",
+        "status": "Departed 22:38"
+    }, {
+        "est": "22:12",
+        "flightno": "PO916",
+        "to": "Anchorage (ANC)",
+        "carrior": "Polar Air Cargo",
+        "type": "B748",
+        "reg": "N858GT",
+        "status": "Departed 22:56"
+    }, {
+        "est": "22:14",
+        "flightno": "7C3404",
+        "to": "Saipan (SPN)",
+        "carrior": "Jeju Air",
+        "type": "B738",
+        "reg": "HL8287",
+        "status": "Departed 22:48"
+    }, {
+        "est": "22:15",
+        "flightno": "5J129",
+        "to": "Cebu (CEB)",
+        "carrior": "CEBU Pacific Air",
+        "type": "A320",
+        "reg": "RP-C4105",
+        "status": "Departed 22:42"
+    }, {
+        "est": "22:20",
+        "flightno": "OZ288",
+        "to": "Anchorage (ANC)",
+        "carrior": "Asiana Airlines",
+        "type": "74Y",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "22:25",
+        "flightno": "OZ242",
+        "to": "Anchorage (ANC)",
+        "carrior": "Asiana Airlines",
+        "type": "74F",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "22:26",
+        "flightno": "KE309",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Korean Air",
+        "type": "B744",
+        "reg": "HL7448",
+        "status": "Departed 22:36"
+    }, {
+        "est": "22:27",
+        "flightno": "FX5924",
+        "to": "Anchorage (ANC)",
+        "carrior": "FedEx",
+        "type": "MD11",
+        "reg": "N586FE",
+        "status": "Departed 22:25"
+    }, {
+        "est": "22:30",
+        "flightno": "KE233",
+        "to": "Anchorage (ANC)",
+        "carrior": "Korean Air",
+        "type": "B748",
+        "reg": "HL7624",
+        "status": "Departed 22:44"
+    }, {
+        "est": "22:35",
+        "flightno": "CZ6044",
+        "to": "Nanning (NNG)",
+        "carrior": "China Southern Airlines",
+        "type": "B738",
+        "reg": "B-5469",
+        "status": "Departed 01:10"
+    }, {
+        "est": "22:36",
+        "flightno": "KE395",
+        "to": "Singapore (SIN)",
+        "carrior": "Korean Air",
+        "type": "B744",
+        "reg": "HL7400",
+        "status": "Departed 23:01"
+    }, {
+        "est": "22:40",
+        "flightno": "MM1008",
+        "to": "Tokyo (HND)",
+        "carrior": "Peach Aviation",
+        "type": "A320",
+        "reg": "JA802P",
+        "status": "Departed 23:08"
+    }, {
+        "est": "22:41",
+        "flightno": "SC4988",
+        "to": "Jinan (TNA)",
+        "carrior": "Shandong Airlines",
+        "type": "B738",
+        "reg": "B-5491",
+        "status": "Departed 23:11"
+    }, {
+        "est": "22:42",
+        "flightno": "OZ268",
+        "to": "Anchorage (ANC)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7616",
+        "status": "Departed 23:13"
+    }, {
+        "est": "22:43",
+        "flightno": "MU2066",
+        "to": "Xi'an (XIY)",
+        "carrior": "China Eastern Airlines",
+        "type": "A320",
+        "reg": "B-2212",
+        "status": "Departed 23:04"
+    }, {
+        "est": "22:50",
+        "flightno": "AE231",
+        "to": "Taipei (TPE)",
+        "carrior": "Mandarin Airlines",
+        "type": "E190",
+        "reg": "B-16829",
+        "status": "Departed 23:25"
+    }, {
+        "est": "22:55",
+        "flightno": "CI149",
+        "to": "Taipei (TPE)",
+        "carrior": "China Airlines",
+        "type": "B738",
+        "reg": "B-18657",
+        "status": "Departed 23:14"
+    }, {
+        "est": "23:00",
+        "flightno": "KE9525",
+        "to": "Hanoi (HAN)",
+        "carrior": "Korean Air",
+        "type": "B77L",
+        "reg": "HL8226",
+        "status": "Departed 23:19"
+    }, {
+        "est": "23:05",
+        "flightno": "OZ286",
+        "to": "Los Angeles (LAX)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7620",
+        "status": "Departed 23:44"
+    }, {
+        "est": "23:10",
+        "flightno": "S7558",
+        "to": "Vladivostok (VVO)",
+        "carrior": "S7 Airlines",
+        "type": "A320",
+        "reg": "VP-BCP",
+        "status": "Departed 23:37"
+    }, {
+        "est": "23:11",
+        "flightno": "TK91",
+        "to": "Istanbul (IST)",
+        "carrior": "Turkish Airlines",
+        "type": "B77W",
+        "reg": "TC-JJP",
+        "status": "Departed 23:21"
+    }, {
+        "est": "23:12",
+        "flightno": "UO3627",
+        "to": "Hong Kong (HKG)",
+        "carrior": "Hong Kong Express",
+        "type": "A320",
+        "reg": "B-LPE",
+        "status": "Departed 23:23"
+    }, {
+        "est": "23:13",
+        "flightno": "KE277",
+        "to": "Anchorage (ANC)",
+        "carrior": "Korean Air",
+        "type": "B744",
+        "reg": "HL7603",
+        "status": "Departed 23:32"
+    }, {
+        "est": "23:20",
+        "flightno": "KE315",
+        "to": "Shanghai (PVG)",
+        "carrior": "Korean Air",
+        "type": "B744",
+        "reg": "HL7449",
+        "status": "Departed 23:27"
+    }, {
+        "est": "23:21",
+        "flightno": "OZ951",
+        "to": "Hanoi (HAN)",
+        "carrior": "Asiana Airlines",
+        "type": "B744",
+        "reg": "HL7419",
+        "status": "Departed 23:41"
+    }, {
+        "est": "23:25",
+        "flightno": "KE213",
+        "to": "Anchorage (ANC)",
+        "carrior": "Korean Air",
+        "type": "B748",
+        "reg": "HL7623",
+        "status": "Departed 23:53"
+    }, {
+        "est": "23:30",
+        "flightno": "KE319",
+        "to": "Guangzhou (CAN)",
+        "carrior": "Korean Air",
+        "type": "B744",
+        "reg": "HL7602",
+        "status": "Departed 23:30"
+    }, {
+        "est": "23:35",
+        "flightno": "KE361",
+        "to": "Hanoi (HAN)",
+        "carrior": "Korean Air",
+        "type": "B744",
+        "reg": "HL7403",
+        "status": "Departed 23:46"
+    }, {
+        "est": "23:55",
+        "flightno": "EK323",
+        "to": "Dubai (DXB)",
+        "carrior": "Emirates",
+        "type": "A388",
+        "reg": "A6-EDR",
+        "status": "Departed 23:59"
+    }, {
+        "est": "23:56",
+        "flightno": "MU7838",
+        "to": "Nanjing (NKG)",
+        "carrior": "China Eastern Airlines",
+        "type": "A321",
+        "reg": "B-6368",
+        "status": "Departed 01:43"
+    }, {
+        "est": "23:57",
+        "flightno": "KE857",
+        "to": "Beijing (PEK)",
+        "carrior": "Korean Air",
+        "type": "B738",
+        "reg": "HL8240",
+        "status": "Departed 23:57"
+    }, {
+        "est": "00:05",
+        "flightno": "R3506",
+        "to": "Yakutsk (YKS)",
+        "carrior": "Yakutia Airlines",
+        "type": "SU95",
+        "reg": "RA-89021",
+        "status": "Departed"
+    }, {
+        "est": "00:07",
+        "flightno": "NH8480",
+        "to": "Naha (OKA)",
+        "carrior": "All Nippon Airways",
+        "type": "76F",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "00:10",
+        "flightno": "KE323",
+        "to": "Xi'an (XIY)",
+        "carrior": "Korean Air",
+        "type": "74F",
+        "reg": "Unknown",
+        "status": ""
+    }, {
+        "est": "00:35",
+        "flightno": "SQ603",
+        "to": "Singapore (SIN)",
+        "carrior": "Singapore Airlines",
+        "type": "A333",
+        "reg": "9V-STD",
+        "status": "Departed 00:26"
+    }]
+}

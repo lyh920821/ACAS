@@ -1,0 +1,509 @@
+<!doctype html>
+<html>
+
+<head>
+ <meta charset="UTF-8">
+ <title>ACAS</title>
+ <link rel="stylesheet" href="./css/main.css">
+ <link rel="shortcut icon" type="image/x-icon" href="./images/qwe.PNG" />
+ <script type="text/javascript" src="js/jquery.js"></script>
+ <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+ <script type="text/javascript">
+  var imageObj = new Image();
+  var imageSelect = new Image();
+  var imageA = new Image();
+  var imageB = new Image();
+  var imagewarning1 = new Image();
+  var imagewarning2 = new Image();
+  var ctx;
+  $(document).ready(function() {
+   myTimer();
+   var myVar = setInterval(function() {
+    myTimer()
+   }, 1000);
+
+   function myTimer() {
+    var d = new Date();
+    var t = d.getHours() + ':';
+    t += d.getMinutes() + ':';
+    t += d.getSeconds();
+    document.getElementById("textB").innerHTML = t;
+   };
+
+   canvasDraw();
+
+   function canvasDraw() {
+    var c = document.getElementById("cview");
+    ctx = c.getContext("2d");
+    c.addEventListener("click", function(e) {
+     console.log({
+      x: e.layerX,
+      y: e.layerY
+     });
+    });
+    imageObj.onload = function() {
+     drawFrame(ctx);
+    };
+    imageObj.src = "./images/background.png";
+    imageSelect.src = "./images/airselect.png";
+    imageA.src = "./images/airplane.png";
+    imageB.src = "./images/pointairplane.png";
+    imagewarning1.src = "./images/warning1.png";
+    imagewarning2.src = "./images/warning2.png";
+   }
+
+   function drawFrame(ctx) {
+    setInterval(function() {
+     ctx.drawImage(imageObj, 0, 0);
+     //항공기 초기 속도값 계산
+     var d = new Date();
+     var n = d.getMilliseconds();
+     //ctx.drawImage(imageSelect, 321 + n - 52, 200 - 52);
+     var corr = 52;
+     var speed = 1;
+     for (k = 0; k < que.length; k++) {
+      if (que[k][5] == 0) {
+       speed = 20;
+      }
+
+      if (Math.abs(parseInt(que[k][4]) - parseInt(que[k][2])) < speed) {
+       if (Math.abs(parseInt(que[k][4]) - parseInt(que[k][2])) > 0) {
+        speed = Math.abs(parseInt(que[k][4]) - parseInt(que[k][2]));
+       }
+      }
+      if (Math.abs(parseInt(que[k][3]) - parseInt(que[k][1])) < speed) {
+       if (Math.abs(parseInt(que[k][3]) - parseInt(que[k][1])) > 0) {
+        speed = Math.abs(parseInt(que[k][3]) - parseInt(que[k][1]));
+       }
+      }
+      if (parseInt(que[k][1]) < parseInt(que[k][3])) {
+       que[k][1] += speed;
+      }
+      else if (parseInt(que[k][1]) > parseInt(que[k][3])) {
+       que[k][1] -= speed;
+      }
+      if (parseInt(que[k][2]) < parseInt(que[k][4])) {
+       que[k][2] += speed;
+      }
+      else if (parseInt(que[k][2]) > parseInt(que[k][4])) {
+       que[k][2] -= speed;
+      }
+      // ctx.rotate(que[k][6].split("/")[2]);
+      if (que[k][11] != null) {
+       que[k][11] = 1;
+      }
+      else {
+       que[k][11] = que[k][11] + 1;
+      }
+      ctx.drawImage(imageB, que[k][1] - corr, que[k][2] - corr);
+
+     }
+
+    }, 200);
+   }
+   getJsons();
+
+   function getJsons() {
+    $.getJSON("./json/arrival.json").done(function(data) {
+     jArrival = data;
+     //JSON 파일 도착 시간별 정렬 과정
+     var artemp;
+     for (k = 0; k < jArrival.arrival.length; k++) {
+      for (q = k + 1; q < jArrival.arrival.length; q++) {
+       var h1, h2, m1, m2;
+       h1 = jArrival.arrival[k].est.substring(0, 2);
+       h2 = jArrival.arrival[q].est.substring(0, 2);
+       m1 = jArrival.arrival[k].est.substring(3, 5);
+       m2 = jArrival.arrival[q].est.substring(3, 5);
+
+       h1 = parseInt(h1) * 100 + parseInt(m1);
+       h2 = parseInt(h2) * 100 + parseInt(m2);
+       if (h1 > h2) {
+        artemp = jArrival.arrival[k];
+        jArrival.arrival[k] = jArrival.arrival[q];
+        jArrival.arrival[q] = artemp;
+       }
+      }
+     }
+     allivals();
+     console.log(jsonLoaded++);
+    });
+    $.getJSON("./json/Departures.json").done(function(data) {
+     jDeparture = data;
+     console.log(jsonLoaded++);
+    });
+    $.getJSON("./json/points.json").done(function(data) {
+     jPoints = data;
+     console.log(jsonLoaded++);
+    });
+    $.getJSON("./json/route.json").done(function(data) {
+     jRoute = data;
+     console.log(jsonLoaded++);
+    });
+
+
+   }
+
+  });
+  var jsonLoaded = 0;
+  var jArrival, jDeparture, jPoints, jRoute;
+
+  function allivals() {
+   var items = [];
+   for (k = 0; k < jArrival.arrival.length; k++) {
+    h1 = parseInt(jArrival.arrival[k].est.substring(0, 2)) * 100 + parseInt(jArrival.arrival[k].est.substring(3, 5));
+    var d = new Date();
+    h2 = d.getHours() * 100 + d.getMinutes();
+    if (h1 > h2) {
+     items.push('<li class="contDA1"><span class="c1">' + jArrival.arrival[k].flightno + '</span><span class="c2">' + jArrival.arrival[k].departure + '</span><span class="c3">' + jArrival.arrival[k].carrior + '</span><span class="c4">' + jArrival.arrival[k].est + '</span></li>');
+    }
+   }
+   $("#contDA").append(items.toString());
+  }
+  // que 
+  var que, queroute;
+  que = [];
+  queroute = [];
+
+  setInterval(function() {
+   if (jsonLoaded == 4) {
+    console.log("que being");
+    var cnt = 0;
+    for (var k = 0; k < jArrival.arrival.length; k++) {
+     var h1 = parseInt(jArrival.arrival[k].est.substring(0, 2)) * 100 + parseInt(jArrival.arrival[k].est.substring(3, 5));
+     var d = new Date();
+     var h2 = d.getHours() * 100 + d.getMinutes();
+
+     var startPoints = [{
+      point: "33R6",
+      cood: "3000,200,1022,200"
+     }, {
+      point: "33R4",
+      cood: "0,200,1974,200"
+     }, {
+      point: "33L4",
+      cood: "0,493,1961,493"
+     }, {
+      point: "33L7",
+      cood: "3000,493,1233,493"
+     }];
+     var rnd = parseInt(Math.random() * 4);
+     // console.log(h1 + "/" + h2);
+     if (h1 > h2 && h1 < h2 + 2) {
+      if (que.length == 0) {
+       console.log(jArrival.arrival[k].flightno);
+       //                                    x1,y1  , x2, y2, status, querouteprogress
+
+       var arr = [jArrival.arrival[k].flightno,
+        parseInt(startPoints[rnd].cood.split(",")[0]), parseInt(startPoints[rnd].cood.split(",")[1]),
+        parseInt(startPoints[rnd].cood.split(",")[2]), parseInt(startPoints[rnd].cood.split(",")[3]), 0, 0
+       ];
+       arr[10] = startPoints[rnd].point;
+       que.push(arr);
+       console.log("que Added" + jArrival.arrival[k].flightno);
+      }
+      else {
+       var checker = 0;
+       for (var q = 0; q < que.length; q++) {
+        if (jArrival.arrival[k].flightno == que[q][0]) {
+         checker = 1;
+        }
+       }
+       if (checker == 0) {
+        // console.log(jArrival.arrival[ k ].flightno);
+        var arr = [jArrival.arrival[k].flightno,
+         parseInt(startPoints[rnd].cood.split(",")[0]), parseInt(startPoints[rnd].cood.split(",")[1]),
+         parseInt(startPoints[rnd].cood.split(",")[2]), parseInt(startPoints[rnd].cood.split(",")[3]), 0, 0
+        ];
+        arr[10] = startPoints[rnd].point;
+        que.push(arr);
+        console.log("que Added" + jArrival.arrival[k].flightno);
+       }
+      }
+     }
+    }
+   }
+  }, 5000);
+
+  //que = [['OZ111','x','y','rF','rT'],['OZ111','x','y','rF','rT']];
+  //quteroute = [ab,df,cd,ef]
+  setInterval(function() {
+   for (var k = 0; k < que.length; k++) {
+    if (que[k][1] == que[k][3] && que[k][2] == que[k][4]) {
+     if (que[k][5] == 0) {
+      console.log("route find");
+      var target = parseInt(Math.random() * 19) + 1;
+      var flightNo = que[k][0];
+      var url = "route2.html?start=" + que[k][10] + "&end=A" + target + "&flightNo=" + flightNo;
+      $("body").append("<iframe id='frm' width='5px' height='5px' style='position:absoloute;top:200px;left:100px;z-index:1000'></iframe>");
+      $("#frm").attr("src", url);
+      console.log(url);
+     }
+     break;
+    }
+   }
+  }, 10000);
+
+  // 길찾기 완료 
+  function routeChecked(fl, result) {
+   // alert(fl + "/" + result);
+   newqueroute = {
+    fl,
+    result
+   };
+   queroute.push(newqueroute);
+   console.log(queroute);
+  }
+  setInterval(function() {
+   for (var k = 0; k < queroute.length; k++) {
+    for (var v = 0; v < que.length; v++) {
+
+     if (que[v][0] == queroute[k].fl) {
+      if (que[v][1] == que[v][3] && que[v][2] == que[v][4] && que[v][6] != 0) {
+       que[v][5] = 1;
+       for (var m = 0; m < queroute[k].result.split(">").length; m++) {
+        if (que[v][5] != 2) {
+         var currentQue = que[v][6].split("/")[1];
+         if (queroute[k].result.split(">")[m] == currentQue) {
+          var next = [];
+          next.push(queroute[k].result.split(">")[m]);
+          next.push(queroute[k].result.split(">")[m + 1]);
+          if (next != null) {
+           for (var x = 0; x < jRoute.routes.length; x++) {
+            if (jRoute.routes[x].s == next[0] && jRoute.routes[x].e == next[1]) {
+             console.log("next route---" + next[0] + "/" + next[1] + "/" + jRoute.routes[x].dd);
+             que[v][5] = 2;
+             que[v][6] = next[0] + "/" + next[1] + "/" + jRoute.routes[x].dd;
+             for (var z = 0; z < jPoints.points.length; z++) {
+              if (next[1] == jPoints.points[z].point) {
+               que[v][3] = jPoints.points[z].x;
+               que[v][4] = jPoints.points[z].y;
+              }
+             }
+             break;
+            }
+           }
+          }
+         }
+        }
+       }
+
+      }
+      else {
+       if (que[v][5] == 0) {
+        console.log(que[v][0] + "/" + queroute[k].fl);
+        que[v][5] = 1;
+        var next = [];
+        next.push(queroute[k].result.split(">")[0]);
+        next.push(queroute[k].result.split(">")[1]);
+        if (next != null) {
+         for (var x = 0; x < jRoute.routes.length; x++) {
+          if (jRoute.routes[x].s == next[0] && jRoute.routes[x].e == next[1]) {
+           console.log("------" + next[0] + "/" + next[1] + "/" + jRoute.routes[x].dd);
+           que[v][6] = next[0] + "/" + next[1] + "/" + jRoute.routes[x].dd;
+           for (var z = 0; z < jPoints.points.length; z++) {
+            if (next[1] == jPoints.points[z].point) {
+             que[v][3] = jPoints.points[z].x;
+             que[v][4] = jPoints.points[z].y;
+            }
+           }
+          }
+         }
+        }
+       }
+      }
+      break;
+     }
+    }
+   }
+  }, 5000);
+ </script>
+</head>
+
+<body>
+ <img src="./images/background.png" id="bg" width="0" height="0">
+ <header>
+  <div id="headerLogo">
+   <div id="logoA">
+    <img src="./images/a.png" alt="">
+   </div>
+   <div id="logoB">
+    <img src="./images/b.png" alt="">
+   </div>
+  </div>
+  <div id="headerSide">
+   <div id="sideA">
+    <div>
+     <a href="#"><img src="./images/de1.png" alt=""></a>
+    </div>
+    <div>
+     <img src="./images/de3.png" alt="">
+    </div>
+    <div>
+     <a href="#"><img src="./images/de2.png" alt=""></a>
+    </div>
+   </div>
+   <div id="time">
+    <div id="textA">KOR</div>
+    <div id="textB"></div>
+   </div>
+  </div>
+ </header>
+ <section>
+  <article>
+   <canvas id="cview" width="3300" height="2000"></canvas>
+   <script type="text/javascript">
+   </script>
+  </article>
+  <aside>
+   <div id="con1">
+    <div class="con_contA1">
+     <div class="airPlane">
+      <div class="airA">
+       <div id="airAA">
+        <img src="./images/sub1/cont2.png" alt="">
+       </div>
+       <p id="airBB">
+        Boeing 747
+       </p>
+      </div>
+      <div class="airB">
+       <img src="./images/sub1/con1.png" alt="">
+      </div>
+     </div>
+     <div class="lineA"></div>
+    </div>
+    <div class="con_contA2">
+     <div class="airText">
+      <div class="airTextA">
+       <img src="./images/point.png" alt="">
+       <span>항공기</span>&nbsp;<span class="ftSize">|</span>&nbsp;<span id="a1">B747</span><br>
+       <img src="./images/point.png" alt="">
+       <span>식별 코드</span>&nbsp;<span class="ftSize">|</span>&nbsp;<span id="a2">AAR284</span>
+      </div>
+      <div class="airTextB">
+       <img src="./images/point.png" alt="">
+       <span>비상 식별 코드</span>&nbsp;<span class="ftSize">|</span>&nbsp;<span id="a3">ARR284</span><br>
+       <img src="./images/point.png" alt="">
+       <span>상태</span>&nbsp;<span class="ftSize">|</span>&nbsp;<span id="a4">도착함&nbsp;[차고지 진입중]</span>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="con2">
+    <div class="con_contB1">
+     <img src="./images/point.png" style="width:3px;height:3px;" alt="">
+     <span>승무원</span>&nbsp;&nbsp;<span class="ftSize">|</span>&nbsp;&nbsp;<span id="b1">6명</span>
+     <img src="./images/point.png" style="width:3px;height:3px;" alt="">
+     <span>승객</span>&nbsp;&nbsp;<span class="ftSize">|</span>&nbsp;&nbsp;<span id="b2">312명</span>
+     <img src="./images/point.png" style="width:3px;height:3px;" alt="">
+     <span>총 인원</span>&nbsp;&nbsp;<span class="ftSize">|</span>&nbsp;&nbsp;<span id="b3">320명</span>
+    </div>
+    <div class="lineA"></div>
+    <div class="con_contB2">
+     <div class="con_contB_info">
+      <img src="./images/info/info.png" alt="">
+      <p>기장</p>
+      <p class="name_cont" id="bb1">김인권</p>
+     </div>
+     <div class="con_contB_info">
+      <img src="./images/info/info1.png" alt="">
+      <p>부기장</p>
+      <p class="name_cont" id="bb2">김인권</p>
+     </div>
+     <div class="con_contB_info">
+      <img src="./images/info/info2.png" alt="">
+      <p>승무원</p>
+      <p class="name_cont" id="bb3">김인권</p>
+     </div>
+     <div class="con_contB_info">
+      <img src="./images/info/info3.png" alt="">
+      <p>승무원</p>
+      <p class="name_cont" id="bb4">김인권</p>
+     </div>
+    </div>
+   </div>
+   <div id="con3">
+    <div class="con_contC">
+     <div class="backYell"></div>
+     <span class="subName">출 & 도착 정보</span>
+    </div>
+    <div class="con_contCA">
+     <div class="con_contCA1">
+      <div class="contC1">
+       <p class="contCSize">KUL</p>
+       <p class="lineCont"></p>
+       <p class="ContCtxt">KUALA LUMPUR</p>
+      </div>
+      <div class="contC2">
+       <div class="contCImg2">
+        <img src="./images/de.png" alt="">
+       </div>
+      </div>
+      <div class="contC1">
+       <p class="contCSize">ICN</p>
+       <p class="lineCont">
+       </p>
+       <p class="ContCtxt">SEOUL</p>
+      </div>
+     </div>
+     <div class="con_contCA2">
+      <div class="con_contCAA">
+       <div class="con_contCAAA">
+        <span>SCHEDULED</span>
+        <span>DEPARTURE</span>
+       </div>
+       <div class="con_contCAAB">
+        <span>16:25</span>
+       </div>
+      </div>
+      <div class="con_contCAA">
+       <div class="con_contCAAA">
+        <span>SCHEDULED</span>
+        <span>ARRIVAL</span>
+       </div>
+       <div class="con_contCAAB">
+        <span>21:55</span>
+       </div>
+      </div>
+     </div>
+     <div class="con_contCA3">
+      <div class="con_contCAA">
+       <div class="con_contCAAA">
+        <span>SCHEDULED</span>
+        <span>DELAY</span>
+       </div>
+       <div class="con_contCAAB">
+        <span>00:05</span>
+       </div>
+      </div>
+      <div class="con_contCAA">
+       <div class="con_contCAAA">
+        <span>ARRIVAL</span>
+        <span>DELAY</span>
+       </div>
+       <div class="con_contCAAB">
+        <span>00:00</span>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="con4">
+    <div class="con_contC conC4">
+     <div class="backYell">&nbsp;</div>
+     <span class="subName">출/도착 정보</span>
+    </div>
+    <ul class="contDA" id="contDA">
+
+    </ul>
+    <div class="contDALine"></div>
+    <div class="contDA"></div>
+   </div>
+   <div id="con5"></div>
+   <div id="con6"></div>
+  </aside>
+ </section>
+</body>
+
+</html>

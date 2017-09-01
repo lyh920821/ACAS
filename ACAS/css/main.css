@@ -1,0 +1,545 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+html,
+body,
+header,
+section,
+div,
+a,
+p {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+a {
+    list-style: none;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+header {
+    overflow: hidden;
+    margin: 0;
+    width: 100%;
+    height: 5%;
+    /*    overflow:hidden;*/
+}
+
+#headerLogo {
+    width: 15%;
+    height: 80%;
+    float: left;
+    margin-left: 1%;
+}
+
+#logoA {
+    width: 29%;
+    height: 60%;
+    float: left;
+    margin-top: 5%;
+}
+
+#logoA img {
+    width: 100%;
+    height: 100%;
+}
+
+#logoB {
+    width: 69%;
+    height: 50%;
+    float: left;
+    margin-top: 8%;
+    margin-left: 2%;
+}
+
+#logoB img {
+    width: 100%;
+    height: 100%;
+}
+
+#headerSide {
+    width: 17%;
+    height: 100%;
+    float: right;
+}
+
+#sideA {
+    width: 50%;
+    height: 70%;
+    float: left;
+}
+
+#time {
+    width: 45%;
+    height: 100%;
+    float: right;
+    display: inline-block;
+}
+
+#sideA div {
+    float: left;
+    margin: 0 2%;
+}
+
+#sideA div:nth-child(1) {
+    width: 26%;
+    height: 30%;
+    margin-top: 18%;
+}
+
+#sideA div:nth-child(2) {
+    width: 1%;
+    height: 30%;
+    margin-top: 18%;
+}
+
+#sideA div:nth-child(3) {
+    width: 60%;
+    height: 45%;
+    margin-top: 18%;
+}
+
+#sideA div img {
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+
+#textA {
+    width: 25%;
+    height: 10%;
+    text-align: right;
+    font-size: 40%;
+    font-weight: bold;
+    color: #7d7d7d;
+    float: left;
+    margin-right: 3%;
+    margin-top: 21%;
+}
+
+#textB {
+    width: 72%;
+    height: 10%;
+    font-weight: bold;
+    color: #7d7d7d;
+    float: right;
+    font-size: 150%;
+    margin-top: 10%;
+}
+
+section {
+    width: 100%;
+    height: 95%;
+    background-color: #1f2422;
+}
+
+article {
+    width: 83%;
+    height: 99%;
+    float: left;
+}
+
+aside {
+    width: 17%;
+    height: 100%;
+    background-color: #1f2422;
+    float: left;
+    z-index: 100;
+}
+
+canvas {
+    width: 100%;
+    z-index: 0;
+}
+
+#con1 {
+    width: 100%;
+    height: 18%;
+    background-color: #fff;
+    float: left;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+#con2 {
+    width: 100%;
+    height: 17%;
+    background-color: #fff;
+    float: left;
+    margin-bottom: 2%;
+}
+
+#con3 {
+    width: 100%;
+    height: 20%;
+    background-color: #fff;
+    float: left;
+    margin-bottom: 2%;
+}
+
+#con4 {
+    width: 100%;
+    min-height: 10%;
+    background-color: #fff;
+    float: left;
+    margin-bottom: 2%;
+}
+
+#con5 {
+    width: 100%;
+    height: 25%;
+    background-color: #fff;
+    float: left;
+    margin-bottom: 2%;
+    display: none;
+}
+
+#con6 {
+    width: 100%;
+    height: 6%;
+    background-color: #fff;
+    float: left;
+    margin: 0;
+    display: none;
+}
+
+.con_contA1 {
+    width: 100%;
+    height: 66%;
+    float: left;
+}
+
+.airPlane {
+    width: 95%;
+    height: 90%;
+    margin: 0 auto;
+    margin-top: 1.5%;
+}
+
+.airA {
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.airB {
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.airB img {
+    width: 100%;
+    height: 100%;
+}
+
+#airAA {
+    width: 85%;
+    height: 21%;
+    margin-top: 18%;
+}
+
+#airBB {
+    font-size: 90%;
+    font-weight: bold;
+    color: #212527;
+}
+
+#airAA img {
+    width: 100%;
+    height: 100%;
+}
+
+.lineA {
+    width: 100%;
+    height: 3%;
+    border-bottom: solid 1px #d6d6d6;
+}
+
+.con_contA2 {
+    width: 100%;
+    height: 34%;
+    float: left;
+}
+
+.airText {
+    width: 95%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.airTextA {
+    width: 45%;
+    height: 90%;
+    position: relative;
+    float: left;
+}
+
+.airTextB {
+    width: 55%;
+    height: 90%;
+    position: relative;
+    float: left;
+}
+
+.airText img {
+    width: 3px;
+    height: 3px;
+    vertical-align: middle;
+}
+
+.airText span {
+    vertical-align: middle;
+    color: #707070;
+    font-size: 0.8em;
+}
+
+.airText .ftSize {
+    font-size: 0.4em;
+    vertical-align: baseline;
+}
+
+#a3 {
+    font-weight: bold;
+    color: #be4c4c;
+}
+
+#a4 {
+    font-weight: bold;
+}
+
+.con_contB1 {
+    width: 95%;
+    height: 20%;
+    margin: 0 auto;
+    position: relative;
+    font-size: 0.8em;
+    vertical-align: middle;
+}
+
+.con_contB1 img {
+    vertical-align: baseline;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.con_contB1 img:nth-child(1) {
+    margin-left: 0%;
+}
+
+.con_contB1 span {
+    vertical-align: middle;
+    color: #707070;
+}
+
+.con_contB1 .ftSize {
+    font-size: 0.4em;
+    vertical-align: baseline;
+}
+
+.con_contB2 {
+    width: 95%;
+    height: 76%;
+    margin: 0 auto;
+}
+
+.con_contB_info {
+    width: 21%;
+    height: 90%;
+    float: left;
+    margin: 3% 2%;
+    text-align: center;
+}
+
+.con_contB_info img {
+    width: 100%;
+    height: 60%;
+}
+
+.con_contB_info p {
+    font-size: 0.8em;
+    margin: -4% 0;
+    color: #707070;
+}
+
+.con_contB_info p.name_cont {
+    font-weight: bold;
+}
+
+.con_contC {
+    width: 100%;
+    height: 13%;
+    border-bottom: solid 1px #d6d6d6;
+}
+
+.backYell {
+    width: 3%;
+    height: 100%;
+    background-color: #f8c023;
+    float: left;
+}
+
+.subName {
+    font-size: 0.8em;
+    font-weight: bold;
+    vertical-align: baseline;
+    color: #333;
+    margin-left: 2%;
+}
+
+.con_contCA {
+    width: 100%;
+    height: 86%;
+}
+
+.con_contCA1 {
+    width: 80%;
+    height: 50%;
+    margin: 0 auto;
+}
+
+.con_contCA2 {
+    width: 100%;
+    height: 25%;
+    background-color: #e6e6e6;
+}
+
+.con_contCA3 {
+    width: 100%;
+    height: 25%;
+}
+
+.contC1 {
+    width: 33%;
+    height: 100%;
+    text-align: center;
+    float: left;
+}
+
+.contCSize {
+    font-size: 2.1em;
+    font-weight: bold;
+    letter-spacing: -2px;
+    color: #333;
+}
+
+.lineCont {
+    width: 76%;
+    height: 2%;
+    background-color: #585858;
+    margin: 0 auto;
+    margin-top: -5%;
+}
+
+.ContCtxt {
+    font-size: 0.5em;
+    margin-top: 3%;
+    color: #999;
+}
+
+.contC2 {
+    width: 34%;
+    height: 100%;
+    float: left;
+}
+
+.contCImg2 {
+    width: 62%;
+    height: 50%;
+    margin: 0 auto;
+    margin-top: 13%;
+}
+
+.contCImg2 img {
+    width: 100%;
+    height: 100%;
+}
+
+.con_contCAA {
+    width: 37%;
+    height: 100%;
+    float: left;
+    margin: 0 6%;
+}
+
+.con_contCAAA {
+    width: 55%;
+    height: 100%;
+    float: left;
+    font-size: 0.1em;
+}
+
+.con_contCAAA span {
+    display: inline-block;
+    color: #7d7d7d;
+}
+
+.con_contCAAA span:nth-child(1) {
+    font-weight: bold;
+    margin-top: 5%;
+    color: #7d7d7d;
+}
+
+.con_contCAAB {
+    width: 45%;
+    height: 100%;
+    float: left;
+}
+
+.con_contCAAB span {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #494949;
+}
+
+.conC4 {
+    height: 26%;
+}
+
+#contDA {
+    width: 100%;
+    height: 400px;
+    padding: 0;
+    list-style: none;
+    overflow: auto;
+}
+
+li.contDA1 {
+    clear: both;
+}
+
+.contDA1 span {
+    overflow: hidden;
+}
+
+.contDA .c1 {
+    float: left;
+    width: 4em;
+    padding-left: 0.4em;
+}
+
+.contDA .c2 {
+    float: left;
+    width: 5em;
+}
+
+.contDA .c3 {
+    float: left;
+    width: 4em;
+}
+
+.contDA .c4 {
+    float: right;
+    width: 3em;
+    padding-right: 0.4em;
+}
+
+.contDALine {
+    width: 95%;
+    height: 0.5%;
+    background-color: firebrick;
+    margin: 0 auto;
+}
